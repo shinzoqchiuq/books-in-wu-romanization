@@ -415,7 +415,16 @@
 
 由于时代局限以及作者认知的差异，书中的部分内容与现代的认识存在不一致。因而读者可将此书作为了解清末宁波话的材料，但不太适合再作为历史和地理类的科普读物。
 
+原书中提及的大地名一般采用当时已有汉字译名的文读音。重新转写为汉字之后，其中一些译名与现在通行的译名一致，如「欧罗巴」「英吉利」「日耳曼」「俄罗斯」等；另一些则与现在通行的译名不同，如「以大利（意大利）」「佛兰西（法兰西）」「苏以天（瑞典）」「亚拉伯（阿拉伯）」。除此之外，一些小地名或人名，可能当时不存在通行的汉字译名，原书的译法亦与现在不同。由于地名以及人名译法与现在的有较多不同，加上宁波话文本对于大多数读者而言较为陌生，文中出现的陌生人名、地名可能会使读者断错词，因而转写的文本中使用专名号标注了所有的人名、地名。Markdown 格式文本需用支持显示下划线的软件打开，方能显示人名、地名标注。
+
 |      | Markdown 格式文本                       | PDF 格式文件                                                 |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
 | 简体 | [链接](di-li-shü-kyün-s/地理书-卷四.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理书-卷四.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理书-卷四.pdf) |
 | 繁體 | [鏈接](di-li-shü-kyün-s/地理書-卷四.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理書-卷四.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理書-卷四.pdf) |
+
+## 联系
+
+本人能力有限，转写的文本可能存在错误。如果读者有任何问题或是发现了任何错误，欢迎提交 [issue](https://github.com/shinzoqchiuq/books-in-wu-romanization/issues)，或是通过以下邮箱直接与我联系。
+
+本人邮箱：shinzoqchiuq@outlook.com
+
