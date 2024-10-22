@@ -132,8 +132,8 @@
    <td align="center">跍葵掼狂</td>
    <td align="center">ngw</td>
    <td align="center">吾危幻兀</td>
-   <td align="center"></td>
-   <td align="center"></td>
+   <td align="center"> </td>
+   <td align="center"> </td>
    <td align="center"> </td>
    <td align="center"> </td>
    <td align="center"> </td>
@@ -277,8 +277,8 @@
    <td align="center">边点尖见</td>
    <td align="center">un</td>
    <td align="center">半官换碗</td>
-   <td align="center"> </td>
-   <td align="center"> </td>
+   <td align="center">ün</td>
+   <td align="center">专选捐鸳</td>
   </tr>
   <tr>
    <td align="center">ön</td>
