@@ -12,6 +12,6 @@
 
 |      | Markdown 格式文本                       | PDF 格式文件                                                 |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 简体 | [链接](./地理书-卷四.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理书-卷四.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理书-卷四.pdf) |
-| 繁體 | [鏈接](./地理書-卷四.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理書-卷四.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/Marp/di-li-shü-kyün-s/地理書-卷四.pdf) |
+| 简体 | [链接](./地理书-卷四.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/di-li-shü-kyün-s-1852/地理书-卷四.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/di-li-shü-kyün-s/地理书-卷四.pdf) |
+| 繁體 | [鏈接](./地理書-卷四.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/di-li-shü-kyün-s-1852/地理書-卷四.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/di-li-shü-kyün-s/地理書-卷四.pdf) |
 
