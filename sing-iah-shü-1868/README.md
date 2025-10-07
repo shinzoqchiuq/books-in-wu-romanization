@@ -9,39 +9,39 @@
 <table>
  <thead>
   <tr>
-   <th>章节</th>
-   <th colspan="2">Markdown</th>
-   <th colspan="2">PDF（对照）</th>
-   <th colspan="2">PDF（注音）</th>
+   <th align="center">章节</th>
+   <th colspan="2" align="center">Markdown</th>
+   <th colspan="2" align="center">PDF（对照）</th>
+   <th colspan="2" align="center">PDF（注音）</th>
   </tr>
  </thead>
  <tbody>
   <tr>
-   <th> </th>
-   <td>简体</td>
-   <td>繁體</td>
-   <td>简体</td>
-   <td>繁體</td>
-   <td>简体</td>
-   <td>繁體</td>
+   <th align="center"> </th>
+   <td align="center">简体</td>
+   <td align="center">繁體</td>
+   <td align="center">简体</td>
+   <td align="center">繁體</td>
+   <td align="center">简体</td>
+   <td align="center">繁體</td>
   </tr>
   <tr>
-   <th>扉页与目录</th>
+   <th align="center">扉页与目录</th>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/扉页与目录.md">链接</a></td>
-   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/扉頁與目錄.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/扉頁與目錄.md">鏈接</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/扉页与目录.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/扉页与目录.pdf">备用</a></td>
-   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/扉頁與目錄.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/扉頁與目錄.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/扉頁與目錄.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/扉頁與目錄.pdf">備用</a></td>
    <td> </td>
    <td> </td>
   </tr>
   <tr>
-   <th>马太传福音书</th>
+   <th align="center">马太传福音书</th>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/马太传福音书.md">链接</a></td>
-   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/馬太傳福音書.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/馬太傳福音書.md">鏈接</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马太传福音书.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马太传福音书.pdf">备用</a></td>
-   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書.pdf">備用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马太传福音书-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马太传福音书-ruby.pdf">备用</a></td>
-   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書-ruby.pdf">備用</a></td>
   </tr>
  </tbody>
 </table>
