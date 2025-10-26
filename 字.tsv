@@ -1,4 +1,5 @@
 羅馬字	漢字
+a	捱
 ah	壓
 ah	軛
 ah	阿
@@ -20,6 +21,7 @@ bang	𦗭
 bao	抱
 bao	暴
 bao	袍
+bao	跑
 be	佩
 be	倍
 be	備
@@ -59,6 +61,7 @@ bong	篷
 bu	哺
 bu	步
 bu	葡
+bu	部
 bun	伴
 bun	叛
 bun	盤
@@ -69,7 +72,9 @@ bæn	辦
 bô	爬
 bô	稗
 bông	旁
+bông	棒
 bông	防
+cih	折
 cing	准
 cing	震
 coh	囑
@@ -159,12 +164,14 @@ dih	敵
 dih	笛
 dih	糴
 din	填
+din	墊
 din	奠
 din	殿
 din	田
 din	甸
 din	鈿
 din	電
+din	頭
 ding	亭
 ding	停
 ding	定
@@ -173,6 +180,7 @@ djoh	着
 djoh	逐
 djong	蟲
 djong	重
+djô	搽
 djôh	着
 djông	常
 djông	撞
@@ -209,11 +217,13 @@ du	肚
 dz	慈
 dz	辭
 dza	咋
+dzao	造
 dzeh	擇
 dzeh	雜
 dzeng	存
 dzi	豸
 dzi	遲
+dziah	着
 dziang	丈
 dziang	場
 dziang	杖
@@ -228,6 +238,7 @@ dzih	疾
 dzih	直
 dzin	漸
 dzin	錢
+dzing	乘
 dzing	仍
 dzing	剩
 dzing	城
@@ -325,6 +336,7 @@ fông	妨
 fông	放
 fông	方
 gah	軋
+gao	交
 gao	絞
 geo	跔
 go	個
@@ -333,6 +345,7 @@ gwa	懷
 gwah	刮
 gwu	跍
 gwæn	環
+gwông	狂
 gyi	其
 gyi	及
 gyi	奇
@@ -387,6 +400,8 @@ ho	荷
 ho	貨
 hoh	𢞕
 hong	哄
+hong	烘
+hwah	甩
 hwe	悔
 hwe	毀
 hwe	灰
@@ -435,6 +450,7 @@ hyüong	兇
 hyüong	嗅
 hæ	海
 i	依
+i	倚
 i	宜
 i	意
 i	挔
@@ -447,6 +463,7 @@ iang	養
 iao	腰
 iao	要
 ih	一
+ih	溢
 ih	益
 ih	𥣘
 in	厭
@@ -455,6 +472,7 @@ in	煙
 ing	印
 ing	因
 ing	應
+ing	蔭
 ing	陰
 ing	隱
 ing	音
@@ -517,6 +535,7 @@ kao	酵
 kao	高
 ke	箇
 keh	割
+keh	吃
 keh	箇
 keh	葛
 keh	革
@@ -562,6 +581,7 @@ kwa	拐
 kwah	刮
 kwah	摑
 kwang	梗
+kwe	劊
 kwe	圭
 kwe	歸
 kwe	規
@@ -617,10 +637,12 @@ kyi	雞
 kyi	飢
 kyiah	甲
 kyiah	腳
+kyiang	僵
 kyiao	叫
 kyiao	教
 kyiao	澆
 kyiao	繳
+kyiao	驕
 kyih	今
 kyih	吉
 kyih	急
@@ -640,6 +662,7 @@ kying	禁
 kying	筋
 kying	經
 kying	緊
+kying	謹
 kying	警
 kying	金
 kying	頸
@@ -673,6 +696,7 @@ kyʽi	氣
 kyʽi	溪
 kyʽi	豈
 kyʽi	起
+kyʽiah	卻
 kyʽih	喫
 kyʽih	挈
 kyʽin	愆
@@ -695,6 +719,7 @@ kæ	改
 kæ	概
 kæ	蓋
 kæ	該
+kæn	奸
 kæn	姦
 kæn	揀
 kæn	監
@@ -719,11 +744,13 @@ kʽah	掐
 kʽang	坑
 kʽang	揞
 kʽao	敲
+kʽao	銬
 kʽao	靠
 kʽeh	刻
 kʽeh	客
 kʽeh	渴
 kʽeh	瞌
+kʽeh	磕
 kʽen	看
 kʽeng	懇
 kʽeng	肯
@@ -759,7 +786,9 @@ lao	佬
 lao	勞
 lao	牢
 lao	老
+le	屢
 le	累
+le	雷
 le	類
 leh	了
 leh	勒
@@ -772,6 +801,7 @@ leo	樓
 leo	漏
 li	例
 li	利
+li	厘
 li	厲
 li	吏
 li	履
@@ -802,6 +832,7 @@ liao	撩
 liao	料
 liao	繚
 liao	蹽
+liao	鐐
 lih	列
 lih	力
 lih	律
@@ -818,6 +849,7 @@ lin	臉
 lin	蓮
 lin	連
 lin	鏈
+lin	鐮
 ling	令
 ling	另
 ling	懍
@@ -845,6 +877,7 @@ long	嚨
 long	弄
 long	攏
 long	聾
+long	龍
 lu	爐
 lu	盧
 lu	蘆
@@ -872,6 +905,7 @@ lông	𧻴
 lön	亂
 l̆a	拉
 l̆eo	𠞭
+l̆ong	弄
 m	嘸
 m	姆
 ma	嗎
@@ -983,6 +1017,7 @@ nga	外
 nga	捱
 ngah	額
 ngang	硬
+ngao	傲
 ngao	咬
 ngen	岸
 ngeo	偶
@@ -1003,6 +1038,7 @@ no	挪
 noh	儂
 noh	諾
 nong	農
+nu	努
 nu	奴
 nu	怒
 nyi	二
@@ -1093,6 +1129,7 @@ peng	奔
 peng	本
 pi	庇
 pi	比
+pi	秘
 pi	閉
 piao	婊
 pih	別
@@ -1135,6 +1172,7 @@ pæn	板
 pæn	班
 pæn	畈
 pæn	瘢
+pæn	般
 pæn	𢲔
 pô	巴
 pô	把
@@ -1145,6 +1183,7 @@ pông	幫
 pông	謗
 pông	邦
 pʽa	派
+pʽah	拍
 pʽah	𤖼
 pʽang	乓
 pʽang	烹
@@ -1153,9 +1192,12 @@ pʽe	配
 pʽeo	剖
 pʽi	批
 pʽi	披
+pʽiao	漂
 pʽih	劈
 pʽih	匹
 pʽih	撇
+pʽih	闢
+pʽin	篇
 pʽin	騙
 pʽing	聘
 pʽo	破
@@ -1168,6 +1210,7 @@ pʽu	鋪
 pʽun	判
 pʽô	怕
 r	珥
+r	而
 s	使
 s	司
 s	四
@@ -1194,6 +1237,7 @@ sao	嫂
 sao	掃
 sao	梢
 sao	燥
+sao	𢜶
 se	碎
 se	祟
 se	稅
@@ -1232,6 +1276,7 @@ shü	歲
 shü	水
 shün	選
 si	世
+si	嘶
 si	婿
 si	死
 si	洗
@@ -1294,6 +1339,7 @@ so	鎖
 soh	啥
 soh	宿
 soh	束
+soh	索
 soh	速
 song	松
 song	送
@@ -1366,6 +1412,7 @@ tin	典
 tin	店
 tin	殿
 tin	癲
+tin	顛
 tin	點
 ting	丁
 ting	叮
@@ -1395,6 +1442,7 @@ ts	滋
 ts	煮
 ts	籽
 ts	紫
+ts	至
 tsa	債
 tsah	只
 tsah	扎
@@ -1425,7 +1473,9 @@ tsiah	着
 tsiang	仗
 tsiang	將
 tsiang	帳
+tsiang	張
 tsiang	漲
+tsiang	粻
 tsiang	賬
 tsiang	醬
 tsiang	長
@@ -1486,8 +1536,10 @@ tsæn	盞
 tsæn	讚
 tsæn	趲
 tsô	榨
+tsô	詐
 tsô	遮
 tsôh	作
+tsôh	摘
 tsôh	斫
 tsông	妝
 tsông	葬
@@ -1543,6 +1595,7 @@ tsʽæn	產
 tsʽô	岔
 tsʽô	差
 tsʽô	汊
+tsʽô	瘥
 tsʽô	車
 tsʽông	倉
 tsʽông	創
@@ -1567,6 +1620,7 @@ tông	擋
 tông	當
 tông	黨
 tön	斷
+tön	煅
 tön	短
 tön	端
 tʽa	他
@@ -1576,6 +1630,7 @@ tʽah	埭
 tʽah	塌
 tʽah	塔
 tʽah	撻
+tʽah	榻
 tʽah	蹋
 tʽah	𡍲
 tʽao	套
@@ -1588,6 +1643,7 @@ tʽen	探
 tʽen	貪
 tʽeng	吞
 tʽeng	氽
+tʽeng	褪
 tʽeo	偷
 tʽeo	透
 tʽi	剃
@@ -1614,7 +1670,9 @@ tʽu	唾
 tʽu	土
 tʽæ	梯
 tʽæ	胎
+tʽæn	嘆
 tʽæn	坦
+tʽæn	灘
 tʽæn	癱
 tʽô	湯
 tʽôh	託
@@ -1642,6 +1700,7 @@ vi	未
 voh	伏
 voh	復
 voh	服
+voh	袱
 vong	奉
 vong	甮
 vong	縫
@@ -1650,6 +1709,8 @@ vu	武
 vu	浮
 vu	無
 vu	父
+vu	符
+vu	糊
 vu	舞
 vu	附
 vu	霧
@@ -1661,6 +1722,7 @@ væn	萬
 væn	藩
 væn	飯
 vông	亡
+vông	妄
 vông	房
 vông	望
 wa	還
@@ -1688,6 +1750,7 @@ wu	湖
 wu	狐
 wu	糊
 wu	胡
+wu	護
 wun	完
 wun	換
 wun	黃
@@ -1765,8 +1828,10 @@ yiu	油
 yiu	猶
 yiu	誘
 yiæ	埃
+yiæ	睚
 yiæ	耶
 ylang	羊
+yü	圍
 yü	宇
 yü	愈
 yü	於
@@ -1786,12 +1851,14 @@ yüing	雲
 yün	園
 yün	緣
 yün	遠
+yüoh	慾
 yüoh	疫
 yüong	傭
 yüong	容
 yüong	榮
 yüong	用
 yüong	雄
+yüô	嗄
 yüô	夏
 yüô	雅
 z	㖷
@@ -1832,6 +1899,7 @@ ziang	牆
 ziao	兆
 zih	射
 zih	席
+zih	舌
 zih	食
 zin	前
 zin	賤
@@ -1844,12 +1912,14 @@ zing	甚
 zing	盛
 zing	盡
 zing	辰
+zing	靜
 ziu	受
 ziu	壽
 ziu	就
 ziu	柔
 zo	坐
 zo	座
+zoh	𧮙
 zæn	饞
 zô	昨
 zôh	鑿
@@ -1859,6 +1929,7 @@ zông	嘗
 zông	尚
 zông	晌
 zông	牀
+zông	狀
 zông	裳
 æ	哀
 æ	愛
@@ -1886,6 +1957,7 @@ zông	裳
 ʽang	杏
 ʽang	行
 ʽao	號
+ʽao	豪
 ʽe	哎
 ʽeh	合
 ʽeh	盒

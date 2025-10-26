@@ -4,7 +4,7 @@
 
 人名、地名转写参照官话和合本、上海土白圣经、苏州土白等圣经的译名。
 
-目前仅完成扉页至马太传福音书。
+目前仅完成扉页至马可传福音书。
 
 <table>
  <thead>
@@ -42,6 +42,15 @@
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書.pdf">備用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马太传福音书-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马太传福音书-ruby.pdf">备用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬太傳福音書-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">马可传福音书</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/马可传福音书.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/馬可傳福音書.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马可传福音书.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马可传福音书.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬可傳福音書.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬可傳福音書.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马可传福音书-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/马可传福音书-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬可傳福音書-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/馬可傳福音書-ruby.pdf">備用</a></td>
   </tr>
  </tbody>
 </table>
