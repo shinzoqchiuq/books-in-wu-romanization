@@ -82,7 +82,7 @@
    <td align="center">s</td>
    <td align="center">四西孙速</td>
    <td align="center">z</td>
-   <td align="center">字徐上辱</td>
+   <td align="center">字徐上石</td>
   </tr>
   <tr>
    <td align="center">c</td>
