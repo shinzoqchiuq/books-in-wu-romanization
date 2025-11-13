@@ -23,7 +23,7 @@ ah-nyiang	阿孃	60
 ah-nyiang-go	阿孃個	1
 ah-sah	壓煞	1
 ah-sao	阿嫂	2
-ah-tia	阿爹	235
+ah-tia	阿爹	236
 ah-tia-go	阿爹個	28
 ah-to	阿多	3
 ah-tsi	阿姊	2
@@ -199,7 +199,7 @@ bu-ʽang-peng-long	步行奔攏	1
 bun-li	盤裏	4
 bun-meng	盤問	4
 bun-zah	磐石	1
-bæn	辦	30
+bæn	辦	32
 bæn-fah	辦法	1
 bæn-go	辦個	1
 bæn-tsiu	辦酒	3
@@ -255,7 +255,7 @@ cong-læ	種來	1
 cong-ming	總名	1
 cong-nyiang	中央	83
 cong-nyiang-go	中央個	3
-cong-nying	衆人	49
+cong-nying	衆人	50
 cong-nying-go	衆人個	4
 cong-pao	中保	9
 cong-ping	總兵	1
@@ -292,7 +292,7 @@ cü-du	制度	1
 cü-go	主個	39
 cü-gyin-li	嘴鉗裏	1
 cü-i	主意	12
-cü-kwu	主顧	255
+cü-kwu	主顧	256
 cü-kwu-go	主顧個	12
 cü-kwu-z	主顧是	1
 cü-kwü-go	主顧個	1
@@ -446,7 +446,7 @@ dao-feh-tseo-go	逃弗走個	1
 dao-ko	逃過	1
 dao-kyiao	道教	1
 dao-leh	逃勒	1
-dao-li	道理	61
+dao-li	道理	62
 dao-meng	逃門	1
 dao-næn	逃難	1
 dao-tao	逃到	6
@@ -720,7 +720,7 @@ djün-djün-be-be	全全備備	1
 djün-fu	全副	13
 djün-ko	全個	10
 djün-kyʽi	傳去	3
-djün-kʽæ	傳開	11
+djün-kʽæ	傳開	12
 djün-kʽæ-go	傳開個	3
 djün-kʽæ-kyʽi	傳開去	1
 djün-læ	傳來	2
@@ -777,7 +777,7 @@ do-lôh-læ	馱落來	1
 do-mih-siang	陀密相	1
 do-mô-deo	大碼頭	1
 do-nyiang	大樣	37
-do-nying	大人	5
+do-nying	大人	6
 do-nön	大囡	6
 do-siao-go	大小個	1
 do-tih	馱的	1
@@ -834,7 +834,7 @@ dong-shih	同室	1
 dong-sing	動身	32
 dong-sing	同心	8
 dong-sing-ʽeh-i	同心合意	3
-dong-siu	動手	7
+dong-siu	動手	8
 dong-tsoh	動作	1
 dong-tsôh-kyʽi-læ	動作起來	1
 dong-tông	同當	1
@@ -858,7 +858,7 @@ dz-pe-ts	慈悲之	2
 dz-ziang	慈祥	1
 dz-æ	慈愛	21
 dza	咋	99
-dza-go	咋個	73
+dza-go	咋個	74
 dza-go-de	咋個了	1
 dza-hao	咋好	1
 dza-kun	咋管	1
@@ -1064,7 +1064,7 @@ dæn-nyün	但願	70
 dæn-tsʽông	彈唱	2
 dæn-yi-li	但以理	2
 dæn-yiæ-li	但也理	3
-dæn-z	但是	148
+dæn-z	但是	149
 dæn-zông	壇上	1
 dô-kô	大家	225
 dôh-dzô	毒蛇	2
@@ -1271,7 +1271,7 @@ feh-wun	弗完	1
 feh-yü	弗與	3
 feh-yün	弗遠	1
 feh-yüong	弗用	2
-feh-z	弗是	83
+feh-z	弗是	84
 feh-z-ka	弗是介	2
 feh-ziang	弗像	1
 feh-zing	弗曾	43
@@ -1332,7 +1332,7 @@ fi-z-pô-sæn	菲士巴三	2
 fi-zông-kyʽi	飛上去	1
 foh	福	40
 foh-di	福地	13
-foh-ing	福音	37
+foh-ing	福音	38
 foh-ing-go	福音個	3
 foh-kyʽi	福氣	62
 foh-kyʽi-de	福氣了	1
@@ -1412,13 +1412,13 @@ gao-lôh-tong	交落東	1
 gao-tæn-long	絞帶攏	1
 geh-tʽa	搿泰	1
 geo-tsing	跔進	1
-go	個	280
+go	個	281
 gwa-li	懷裏	6
 gwah-gwah-teo	刮刮抖	5
 gwu-kæn	跍間	1
 gwæn-ts	環子	1
 gwông-vông	狂妄	1
-gyi	其	2825
+gyi	其	2827
 gyi-cong	其中	1
 gyi-go	其個	216
 gyi-gyi-kwa-kwa	奇奇怪怪	1
@@ -1426,7 +1426,7 @@ gyi-hyüing	其訓	1
 gyi-ko	騎過	1
 gyi-kwa	奇怪	1
 gyi-kæ-kwun	其該管	1
-gyi-lah	其拉	885
+gyi-lah	其拉	887
 gyi-lah	其臘	7
 gyi-lah	其剌	1
 gyi-lah-go	其拉個	42
@@ -1563,7 +1563,7 @@ hah-ngæn-go	瞎眼個	1
 hah-tao	嚇到	1
 hah-ts	瞎子	19
 hah-ts-go	瞎子個	2
-hao	好	847
+hao	好	850
 hao-cʽü	好處	23
 hao-de	好了	9
 hao-go	好個	24
@@ -1595,7 +1595,7 @@ hao-sing	好心	4
 hao-tin	好點	3
 hao-tæ	好歹	1
 hao-tʽing	好聽	1
-hao-vong	好甮	38
+hao-vong	好甮	40
 hao-z	好事	6
 he	許	1
 he-peh	許撥	1
@@ -1777,7 +1777,7 @@ hyün-tsʽao	萱草	5
 hyüong	兇	1
 hyüong-cü	嗅嘴	2
 hyüong-cü-go	嗅嘴個	2
-hyüong-di	兄弟	146
+hyüong-di	兄弟	148
 hyüong-di-go	兄弟個	8
 hyüong-djoh	嗅着	2
 hyüong-kwun-deo	胸脘頭	6
@@ -1866,7 +1866,7 @@ iang	秧	1
 iang-kæn	養間	1
 iang-tong	養東	1
 iang-ts	秧子	19
-iao	要	482
+iao	要	484
 iao	腰	1
 iao-bo-li	腰縛裏	3
 iao-bông	要防	2
@@ -2059,7 +2059,7 @@ ing-teh	應答	1
 ing-tih	印的	1
 ing-tsing	印證	1
 ing-tông	應當	7
-ing-we	因爲	392
+ing-we	因爲	394
 ing-we-ng	因爲爾	1
 ing-yüong	應用	1
 ing-yüong	英雄	1
@@ -2135,7 +2135,7 @@ jing-liu	順流	13
 jing-lo	巡邏	2
 jing-ming	神明	331
 jing-ming-go	神明個	84
-jing-næ	忍耐	9
+jing-næ	忍耐	10
 jing-siu	順手	2
 jing-siu-pin	順手邊	18
 jing-ts	神子	11
@@ -2197,7 +2197,7 @@ jü-tsoh	聚足	1
 jü-tsʽ	如此	9
 jü-vong-li	樹縫裏	2
 jü-we-dông	聚會堂	6
-jü-we-dông-li	聚會堂裏	14
+jü-we-dông-li	聚會堂裏	15
 jü-z	敘事	1
 jün	船	36
 jün	善	2
@@ -2216,7 +2216,7 @@ jün-ôh-go	善惡個	2
 jün-ü	擅於	1
 jün-ʽeo	然後	1
 ka	介	390
-ka	解	7
+ka	解	8
 ka-cʽih	介出	1
 ka-cʽih	解出	1
 ka-dao	街道	2
@@ -2294,7 +2294,7 @@ keh-dzoh	箇族	6
 keh-dzoh-go	箇族個	4
 keh-dæ	箇代	4
 keh-dön	割斷	1
-keh-go	箇個	325
+keh-go	箇個	326
 keh-go-nying	箇個人	2
 keh-gyin	箇件	1
 keh-hyiang	箇向	2
@@ -2485,6 +2485,7 @@ kong-ts	公子	3
 kong-tæn-ding	貢旦定	4
 kong-tæn-ding-dzing	貢旦定城	2
 kong-we	公會	11
+kong-we-li	公會裏	1
 kong-we-ts	公會之	1
 kong-yi	公義	28
 kong-yi-go	公義個	1
@@ -2530,7 +2531,7 @@ kweng-ts	棍子	6
 kwu	僱	3
 kwu	固	1
 kwu	顧	1
-kwu-djôh	顧着	23
+kwu-djôh	顧着	24
 kwu-djôh-go	顧着個	2
 kwu-jih	古實	3
 kwu-jih-go	古實個	1
@@ -2552,7 +2553,7 @@ kwu-z	故事	1
 kwu-z-tsin	古時節	10
 kwu-z-tsin-go	古時節個	1
 kwun	管	19
-kwun	官	10
+kwun	官	13
 kwun-djü	管治	4
 kwun-djü	管住	2
 kwun-fu	官府	6
@@ -2821,7 +2822,7 @@ kying-zih	禁食	12
 kying-zih-go	禁食個	2
 kying-zih-gyi	禁食其	2
 kying-æ	敬愛	2
-kyiu	救	84
+kyiu	救	85
 kyiu	九	5
 kyiu-cü	救主	122
 kyiu-cü-go	救主個	10
@@ -2887,7 +2888,7 @@ kyüô-teh	迦得	3
 kyüô-teh-go	迦得個	1
 kyüô-tʽih	迦鐵	3
 kyüô-ʽen	迦含	1
-kyʽi	去	549
+kyʽi	去	550
 kyʽi	起	16
 kyʽi	氣	15
 kyʽi	豈	14
@@ -3094,7 +3095,7 @@ kôh-tao	各到	2
 kôh-tao-cʽü	各到處	5
 kôh-tao-kôh-cʽü	各到各處	3
 kôh-yiang	各樣	4
-kông	講	92
+kông	講	94
 kông	江	7
 kông	降	3
 kông-cʽih	講出	3
@@ -3102,7 +3103,7 @@ kông-cʽih-læ	講出來	2
 kông-deh-læ	講了來	1
 kông-fah	講法	2
 kông-feh-dzing	講弗盡	1
-kông-go	講個	30
+kông-go	講個	32
 kông-hao	講好	8
 kông-hao-ts	講好仔	1
 kông-ko	講過	2
@@ -3164,7 +3165,7 @@ kʽeh-djü	剋住	1
 kʽeh-kʽeh	刻刻	2
 kʽeh-si-mô-nyi	客西馬尼	3
 kʽeh-tao	磕倒	1
-kʽeh-tsʽeng	刻忖	4
+kʽeh-tsʽeng	刻忖	5
 kʽeh-tsʽeng-go	刻忖個	1
 kʽen	看	147
 kʽen-cʽih	看出	4
@@ -3456,7 +3457,7 @@ liao-kyiao-li-go	繚繳裏個	1
 liao-kʽao	鐐銬	2
 liao-teh-djôh	撩得着	1
 liao-zông-læ	撩上來	1
-lih	立	36
+lih	立	37
 lih	力	2
 lih-dao	力道	4
 lih-de	列隊	1
@@ -3634,7 +3635,7 @@ long-kyʽi	攏去	1
 long-leh	弄勒	4
 long-long	攏攏	1
 long-læ	攏來	5
-long-sah	弄煞	21
+long-sah	弄煞	22
 long-song	弄送	4
 long-tao	弄到	3
 long-tsong	攏總	126
@@ -3666,7 +3667,7 @@ lu-ting	路丁	1
 lu-tʽæ	路梯	1
 lu-zông	路上	20
 lu-zông-go	路上個	2
-læ	來	1215
+læ	來	1217
 læ-de	來了	23
 læ-feh-gyi	來得及	1
 læ-go	來個	35
@@ -3681,7 +3682,7 @@ læ-lih	來歷	2
 læ-læ	來來	1
 læ-læ-kyʽi-kyʽi-go	來來去去個	1
 læ-læ-w̆ông-w̆ông	來來往往	1
-læ-tih	來的	71
+læ-tih	來的	72
 læ-tih-go	來的個	2
 læ-tong	來東	86
 læ-tong-de	來東了	2
@@ -3895,7 +3896,7 @@ min-kʽong-li	面孔裏	1
 min-li	勉勵	1
 min-seh	面色	3
 min-teng	面頂	15
-min-zin	面前	127
+min-zin	面前	128
 min-zin-go	面前個	1
 min-zông	眠牀	3
 min-zông-de	眠牀了	1
@@ -3906,7 +3907,7 @@ ming	命	1
 ming	明	1
 ming-bah	明白	30
 ming-bah-go	明白個	3
-ming-deo	名頭	32
+ming-deo	名頭	33
 ming-dông-li	明堂裏	2
 ming-dông-ʽeo	明堂後	1
 ming-liang	明亮	2
@@ -4064,12 +4065,12 @@ ng-jih-go	五十個	4
 ng-kang-hyiao	五更曉	2
 ng-ko-yüih	五個月	1
 ng-kwu	五股	3
-ng-lah	爾拉	601
+ng-lah	爾拉	610
 ng-lah-go	爾拉個	42
 ng-loh-jih-væn	五六十萬	1
 ng-noh	爾儂	14
 ng-nyin	五年	3
-ng-nô	兒囡	40
+ng-nô	兒囡	41
 ng-nô-go	兒囡個	4
 ng-pah	五百	3
 ng-sang	五牲	1
@@ -4077,7 +4078,7 @@ ng-shü	五歲	1
 ng-to	耳朵	16
 ng-to-li	耳朵裏	1
 ng-to-li-go	耳朵裏個	1
-ng-ts	兒子	445
+ng-ts	兒子	446
 ng-ts-de	兒子了	1
 ng-ts-go	兒子個	14
 ng-tsʽin	五千	11
@@ -4142,7 +4143,7 @@ ngô-bæn	瓦爿	1
 ngô-cong-nyiang	我中央	1
 ngô-de	我了	1
 ngô-den	芽頭	3
-ngô-go	我個	187
+ngô-go	我個	189
 ngô-meng	衙門	3
 ngô-meng-li	衙門裏	6
 ngô-noh	我儂	4
@@ -4235,7 +4236,7 @@ nying-dzing	人陣	1
 nying-go	人個	125
 nying-ko	人過	1
 nying-kwʽu-li	銀庫裏	1
-nying-kô	人家	100
+nying-kô	人家	101
 nying-kô-go	人家個	5
 nying-kʽah	人客	11
 nying-loh	寧錄	2
@@ -4379,7 +4380,7 @@ pah-li-ʽeng	伯利恆	8
 pah-lu	伯魯	1
 pah-nyih-go	八日個	1
 pah-pah	八百	8
-pah-sing	百姓	112
+pah-sing	百姓	113
 pah-sing-go	百姓個	6
 pah-sing-lah	百姓拉	19
 pah-sæ-da	伯賽大	2
@@ -4449,7 +4450,7 @@ pe-ts	背仔	1
 pe-tʽu-li	彼土利	4
 pe-tʽu-li-go	彼土利個	5
 pe-zin	卑賤	3
-peh	撥	673
+peh	撥	676
 peh-djông	不常	6
 peh-dzæ	不在	1
 peh-fông	不妨	1
@@ -4523,7 +4524,7 @@ piao	表	1
 piao-cʽih	滮出	1
 piao-ming	表明	1
 piao-ts	婊子	4
-pih	必	31
+pih	必	33
 pih	逼	1
 pih-dah	必達	1
 pih-ding	必定	80
@@ -4568,7 +4569,7 @@ ping-lang	冰冷	1
 ping-long	併攏	1
 ping-mô	兵馬	31
 ping-tsiang	兵將	2
-ping-tsʽia	並且	67
+ping-tsʽia	並且	68
 po-di-fi-lah-go	波提非拉個	3
 po-di-veh	波提乏	2
 po-lông	波浪	1
@@ -4609,7 +4610,7 @@ pæn-kyiu	斑鳩	1
 pæn-pô	瘢疤	3
 pæn-pô-go	瘢疤個	2
 pæn-tih	𢲔跌	7
-pô	把	191
+pô	把	194
 pô-bih	巴別	2
 pô-công	巴掌	1
 pô-feh-neng	巴弗能	1
@@ -4750,7 +4751,7 @@ s-nyüoh-s	司獄司	2
 s-nyüoh-s-go	司獄司個	1
 s-pah	四百	7
 s-pah-go	四百個	2
-s-peh	賜撥	79
+s-peh	賜撥	80
 s-s	試試	11
 s-s-go	試試個	1
 s-s-kʽen	試試看	1
@@ -5008,7 +5009,7 @@ si-teng	西頓	7
 si-teng-go	西頓個	2
 si-ts	死仔	18
 si-vo-la	西伏剌	3
-si-ze	死罪	14
+si-ze	死罪	16
 si-ʽeo	死後	9
 sia	寫	5
 sia-kæn	寫間	1
@@ -5041,7 +5042,7 @@ siang-sing-ts	相信之	3
 siang-tao	想到	1
 siang-tʽong	相通	1
 siang-vu	相符	2
-siang-vông	相望	17
+siang-vông	想望	17
 siang-vông	相逢	1
 siang-ziang	相像	1
 siang-ziang-go	相像個	2
@@ -5094,7 +5095,7 @@ sih-pʽô	悉怕	5
 sih-pʽô-go	悉怕個	2
 sih-shü	式勢	2
 sih-teh	識得	6
-sin	先	34
+sin	先	35
 sin	閃	9
 sin	線	1
 sin-cü	先知	16
@@ -5154,7 +5155,7 @@ sing-kʽeo	聖口	1
 sing-kʽæ	伸開	1
 sing-leng	伸崙	1
 sing-li	心裏	72
-sing-ling	聖靈	53
+sing-ling	聖靈	54
 sing-ling-go	聖靈個	1
 sing-læ-sing-vu	聖來聖父	1
 sing-læn	心蘭	1
@@ -5269,7 +5270,7 @@ soh-si	啥西	24
 soh-sing	索性	1
 soh-soh	速速	5
 soh-tsô	索詐	1
-song	送	33
+song	送	37
 song-hyiang	松香	1
 song-jü	松樹	1
 song-ko-læ	送過來	1
@@ -5366,7 +5367,7 @@ sæn-yiang	山羊	9
 sæn-yiang-go	山羊個	1
 sæn-ylang	山羊	1
 sæn-zeng	三層	1
-sô	所	333
+sô	所	334
 sô	赦	6
 sô	捨	5
 sô	沙	1
@@ -5458,7 +5459,7 @@ ta-tao	帶到	1
 tah	搭	11
 tah-bang	搭棚	1
 tah-pæn	搭班	1
-tang	打	57
+tang	打	58
 tang-ba	打敗	7
 tang-ba-de	打敗了	1
 tang-ba-ts	打敗仔	1
@@ -5476,7 +5477,7 @@ tang-sah-de	打煞了	2
 tang-shü	打水	7
 tang-shü-go	打水個	1
 tang-sông	打傷	3
-tang-sön	打算	8
+tang-sön	打算	9
 tang-sön-go	打算個	1
 tang-tsiang	打仗	21
 tang-tsiang	打賬	4
@@ -5488,7 +5489,7 @@ tang-tʽing-djôh	打聽着	1
 tang-ying	打贏	11
 tang-ying-ts	打贏仔	1
 tang-zông	打上	3
-tao	到	587
+tao	到	589
 tao	倒	32
 tao	刀	13
 tao	搗	2
@@ -5541,7 +5542,7 @@ te-ngen	對岸	7
 te-siu	對手	5
 te-tang-te	對打對	2
 te-te	𠡒𠡒	2
-te-tsing	對證	36
+te-tsing	對證	37
 teh	得	8
 teh	啄	2
 teh	德	2
@@ -5550,7 +5551,7 @@ teh-cü-de	得知了	4
 teh-cü-go	得知個	1
 teh-djoh	得着	38
 teh-djoh-go	得着個	9
-teh-djôh	得着	53
+teh-djôh	得着	54
 teh-djôh-de	得着了	4
 teh-djôh-go	得着個	2
 teh-i-go	得意個	3
@@ -5566,7 +5567,7 @@ teh-sing-de	得勝了	2
 teh-ts	得之	1
 teh-ze	得罪	18
 teh-ʽang	德行	2
-teng	等	1611
+teng	等	1612
 teng-cü	躉注	1
 teng-dæ	等待	3
 teng-dæ-zông	燈檯上	2
@@ -5584,7 +5585,7 @@ teo-dong-ʽô	斗桶下	2
 teo-fong	鬥風	1
 teo-fong-go	鬥風個	1
 teo-tsing	兜進	1
-ti	底	4
+ti	底	5
 ti	低	2
 ti	帝	1
 ti	蒂	1
@@ -6035,7 +6036,7 @@ tsiu-yia	晝夜	1
 tsiu-yin	酒筵	3
 tsiu-yin-zông	酒筵上	2
 tsiæ	者	3
-tso	做	484
+tso	做	485
 tso-cü	做主	4
 tso-cü-go	做主個	1
 tso-cʽih	做出	3
@@ -6098,7 +6099,7 @@ tsong-kwun	總管	14
 tsong-kwun-go	總管個	1
 tsong-r-yin-ts	總而言之	1
 tsong-tang-tsong	總打總	1
-tsong-toh	總督	12
+tsong-toh	總督	13
 tsong-toh-go	總督個	1
 tsong-tsong	總總	1
 tsong-tôh	總督	1
@@ -6391,7 +6392,7 @@ tô-hwô	朵化	19
 tô-hwô-go	朵化個	1
 tôh-fah-ts-deo	篤發之頭	1
 tôh-zah-deo-en	篤石頭案	1
-tông	當	27
+tông	當	28
 tông	擋	4
 tông-cong-nyiang	當中央	4
 tông-deo	當頭	4
@@ -6560,7 +6561,7 @@ tʽin-zông-go	天上個	18
 tʽin-ʽen	天旱	1
 tʽin-ʽô	天下	31
 tʽin-ʽô-go	天下個	7
-tʽing	聽	121
+tʽing	聽	122
 tʽing-feh-tsing	聽弗進	1
 tʽing-go	聽個	3
 tʽing-kyin	聽見	2
@@ -6759,7 +6760,7 @@ væn-jing-ts	萬神之	2
 væn-jün	萬善	1
 væn-ko	犯過	1
 væn-koh	萬國	24
-væn-koh-go	萬國個	4
+væn-koh-go	萬國個	5
 væn-koh-kyiu-tsiu	萬國九州	2
 væn-koh-nying	萬國人	1
 væn-leh	犯勒	2
@@ -6793,11 +6794,11 @@ vông-veng	房分	1
 wa	還	163
 wa-iao	還要	1
 wa-we	還會	1
-wa-yiu	還有	147
+wa-yiu	還有	148
 wa-yiu-sing	還有星	4
 wa-z	還是	40
 wang-dzæ	橫財	1
-we	會	850
+we	會	856
 we	爲	20
 we	位	4
 we	回	1
@@ -6808,7 +6809,7 @@ we-fi	爲非	1
 we-foh	回覆	2
 we-hyiang	茴香	1
 we-ih	爲一	1
-we-leh	爲了	156
+we-leh	爲了	158
 we-long	圍攏	1
 we-long	會攏	1
 we-ne-seh	韋內瑟	2
@@ -6930,7 +6931,7 @@ wông-kʽong	惶恐	10
 wông-seng	王孫	1
 wông-ti	皇帝	93
 wông-ti-de	皇帝了	1
-wông-ti-go	皇帝個	4
+wông-ti-go	皇帝個	5
 wông-zông	皇上	1
 w̆a	壞	21
 w̆a-cʽu	壞處	1
@@ -6962,7 +6963,7 @@ w̆æn-we	挽回	3
 w̆æn-we-cün	挽回轉	1
 w̆ông-w̆ông	往往	2
 w̆ông-zin	往前	1
-yi	又	365
+yi	又	366
 yi	遺	4
 yi	以	2
 yi-da-li	以大利	29
@@ -7041,7 +7042,7 @@ yi-zin-go	以前個	1
 yi-ʽeo	以後	46
 yi-ʽeo	異候	1
 yi-ʽô-go	以下個	1
-yia	也	503
+yia	也	505
 yia	夜	22
 yia	呀	5
 yia	野	3
@@ -7214,7 +7215,7 @@ yü-kô	愈加	43
 yü-leh	圍勒	1
 yü-ling-ping	御林兵	1
 yü-long-kæn	圍攏間	1
-yü-sin	預先	16
+yü-sin	預先	18
 yü-to	餘多	10
 yü-to-go	餘多個	3
 yü-tông	餘黨	1
@@ -7248,7 +7249,7 @@ yün-cʽü	遠處	1
 yün-go	園個	1
 yün-go	遠個	1
 yün-gying	遠近	1
-yün-kwu	緣故	29
+yün-kwu	緣故	30
 yün-kʽæ	遠開	1
 yün-li	園裏	3
 yün-li-go	園裏個	2
@@ -7258,7 +7259,7 @@ yün-shü-di	懸勢地	1
 yün-tin	遠點	1
 yün-yün	遠遠	12
 yüoh-sing	樂聲	1
-yüong	用	170
+yüong	用	171
 yüong	雄	4
 yüong	榮	1
 yüong-djôh	用着	2
@@ -7311,7 +7312,7 @@ z-dzih-kwu-kô	市值估價	1
 z-dzing	事成	1
 z-dzong	自從	5
 z-fi-sing	是非心	1
-z-go	是個	22
+z-go	是個	23
 z-jün	自然	10
 z-jün-r-jün	自然而然	2
 z-ka	是介	302
@@ -7348,7 +7349,7 @@ z-yün-li	寺院裏	1
 z-yüoh	時疫	1
 z-z	時時	2
 z-zing	時辰	3
-z-ʽeo	時候	344
+z-ʽeo	時候	346
 z-ʽeo	侍候	1
 za	柴	5
 za-kyi	寨基	1
@@ -7400,9 +7401,9 @@ zeh	賊	1
 zeh-keh-leng-teng	雜箇愣敦	1
 zeh-kʽo	賊窠	2
 zeh-tsʽih-peh-la	雜七不剌	1
-zeo	愁	3
+zeo	愁	4
 zeo-meng	愁悶	9
-zi	自	150
+zi	自	152
 zi-be-de	齊備了	1
 zi-dong	齊動	5
 zi-go	自個	82
