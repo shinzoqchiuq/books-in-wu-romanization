@@ -189,6 +189,7 @@ di	地
 di	弟
 di	提
 di	第
+di	遞
 diah	牒
 diah	疊
 diah	碟
@@ -278,6 +279,7 @@ dziao	潮
 dzih	值
 dzih	姪
 dzih	寂
+dzih	涉
 dzih	疾
 dzih	直
 dzin	漸
@@ -345,6 +347,7 @@ dön	團
 dön	斷
 dön	段
 dön	緞
+eh	厄
 en	安
 en	庵
 en	按
@@ -365,6 +368,7 @@ feng	分
 feng	吩
 feng	粉
 feng	糞
+feng	紛
 fi	廢
 fi	榧
 fi	腓
@@ -557,11 +561,13 @@ i	意
 i	挔
 i	衣
 i	醫
+i	饐
 iah	押
 iah	約
 iang	秧
 iang	養
 iao	腰
+iao	舀
 iao	要
 ih	一
 ih	溢
@@ -580,6 +586,7 @@ ing	蔭
 ing	陰
 ing	隱
 ing	音
+ing	飲
 ing	鷹
 iu	幼
 iu	幽
@@ -734,6 +741,7 @@ kwun	管
 kwun	罐
 kwun	脘
 kwun	貫
+kwun	館
 kwæ	怪
 kwæn	慣
 kwæn	關
@@ -762,6 +770,7 @@ kyi	幾
 kyi	既
 kyi	機
 kyi	狗
+kyi	磯
 kyi	箕
 kyi	紀
 kyi	繫
@@ -785,6 +794,7 @@ kyih	劫
 kyih	吉
 kyih	急
 kyih	棘
+kyih	汲
 kyih	潔
 kyih	激
 kyih	結
@@ -824,6 +834,7 @@ kyü	矩
 kyü	舉
 kyü	貴
 kyü	鬼
+kyüih	噘
 kyüih	決
 kyüing	君
 kyüing	軍
@@ -891,8 +902,10 @@ kôh	國
 kôh	擱
 kôh	角
 kông	剛
+kông	扛
 kông	江
 kông	綱
+kông	缸
 kông	講
 kông	降
 kʽa	揩
@@ -921,6 +934,7 @@ kʽo	䯊
 kʽo	可
 kʽo	窠
 kʽo	課
+kʽo	顆
 kʽoh	哭
 kʽong	孔
 kʽong	恐
@@ -963,6 +977,7 @@ leng	倫
 leng	冷
 leng	崙
 leng	愣
+leng	淪
 leng	論
 leo	樓
 leo	漏
@@ -975,6 +990,7 @@ li	厘
 li	厲
 li	吏
 li	呂
+li	哩
 li	履
 li	慮
 li	淚
@@ -997,6 +1013,7 @@ liah	略
 liang	亮
 liang	兩
 liang	樑
+liang	涼
 liang	糧
 liang	良
 liang	諒
@@ -1049,6 +1066,7 @@ lo	羅
 lo	邏
 lo	鑼
 loh	六
+loh	戮
 loh	樂
 loh	碌
 loh	祿
@@ -1086,6 +1104,7 @@ lô	落
 lôh	樂
 lôh	落
 lôh	酪
+lông	廊
 lông	浪
 lông	狼
 lông	螂
@@ -1380,6 +1399,7 @@ piao	表
 pih	別
 pih	壁
 pih	必
+pih	畢
 pih	癟
 pih	碧
 pih	筆
@@ -1455,6 +1475,7 @@ pʽih	劈
 pʽih	匹
 pʽih	撇
 pʽih	闢
+pʽin	偏
 pʽin	片
 pʽin	篇
 pʽin	騙
@@ -1576,6 +1597,7 @@ sih	悉
 sih	惜
 sih	泄
 sih	溼
+sih	膝
 sih	薛
 sih	褻
 sih	設
@@ -1755,11 +1777,13 @@ tsah	只
 tsah	扎
 tsah	摘
 tsah	窄
+tsah	紮
 tsah	責
 tsah	隻
 tsang	爭
 tsao	嘲
 tsao	早
+tsao	棗
 tsao	糟
 tsao	罩
 tsao	遭
@@ -1968,6 +1992,7 @@ tæn	擔
 tæn	旦
 tæn	耽
 tæn	膽
+tæn	黵
 tô	朵
 tôh	督
 tôh	篤
@@ -2013,6 +2038,7 @@ tʽiah	貼
 tʽiao	挑
 tʽiao	糶
 tʽiao	跳
+tʽih	踢
 tʽih	鐵
 tʽin	天
 tʽin	舔
@@ -2035,6 +2061,7 @@ tʽæn	嘆
 tʽæn	坦
 tʽæn	攤
 tʽæn	灘
+tʽæn	炭
 tʽæn	癱
 tʽô	湯
 tʽô	跺
@@ -2117,6 +2144,7 @@ we	慧
 we	會
 we	爲
 we	茴
+we	薈
 we	衛
 we	違
 we	韋
@@ -2277,6 +2305,7 @@ yüô	夏
 yüô	牙
 yüô	瑕
 yüô	雅
+yüôh	慾
 z	㖷
 z	事
 z	似
@@ -2340,6 +2369,7 @@ zing	淨
 zing	甚
 zing	盛
 zing	盡
+zing	繩
 zing	辰
 zing	靜
 ziu	受
