@@ -336,9 +336,8 @@ cü-go	主個	62
 cü-gyin-li	嘴鉗裏	1
 cü-i	主意	30
 cü-kwu	主顧	554
-cü-kwu-go	主顧個	31
+cü-kwu-go	主顧個	32
 cü-kwu-z	主顧是	1
-cü-kwü-go	主顧個	1
 cü-kyiao	主教	1
 cü-meo	主母	3
 cü-nao	主腦	1
@@ -1279,7 +1278,7 @@ en-lih-boh-long	暗力薄朧	1
 en-loh	安樂	2
 en-lu	暗路	2
 en-læ	安來	5
-en-mih-pah	安密巴	1
+en-mih-pah	安密八	1
 en-nen	安南	1
 en-pʽin	暗騙	1
 en-sih	安息	10
@@ -1350,7 +1349,7 @@ fah-lao-de	法老了	1
 fah-lao-go	法老個	15
 fah-leh	法勒	7
 fah-leh	發勒	1
-fah-leh-z	法勒士	5
+fah-leh-z	法勒士	6
 fah-leh-z-go	法勒士個	1
 fah-li-sæ	法利賽	92
 fah-lih	法力	1
@@ -1358,8 +1357,7 @@ fah-lu	法路	1
 fah-ne-lih-go	法內力個	1
 fah-nu	發怒	1
 fah-ping	發兵	1
-fah-siao	發笑	1
-fah-sio	發笑	1
+fah-siao	發笑	2
 fah-siu	發鏽	2
 fah-tin-go	發癲個	1
 fah-ts	法子	6
@@ -1406,7 +1404,6 @@ feh-kæ	弗該	1
 feh-kʽeng	弗肯	25
 feh-kʽo	弗可	39
 feh-kʽo-yi	弗可以	1
-feh-leh-z	法勒士	1
 feh-leng	弗論	22
 feh-læ	弗來	4
 feh-lôh-go	弗落個	1
@@ -1784,8 +1781,7 @@ hah-tao-de	嚇倒了	1
 hah-ts	瞎子	32
 hah-ts-go	瞎子個	6
 hao	好	1206
-hao-cʽu	好處	1
-hao-cʽü	好處	28
+hao-cʽü	好處	29
 hao-de	好了	12
 hao-go	好個	28
 hao-gyi	好其	3
@@ -2414,9 +2410,8 @@ jih-s-ng-væn	十四五萬	1
 jih-sæn	十三	2
 jih-tsah	十隻	6
 jih-tsao	十遭	2
-jih-tsih	十七	2
 jih-tsing	入進	2
-jih-tsʽih	十七	3
+jih-tsʽih	十七	5
 jih-tsʽin	十千	1
 jih-tʽah	十𡍲	1
 jih-we	實惠	14
@@ -2603,8 +2598,7 @@ kao-ti	高低	2
 kao-tsin	交戰	10
 kao-tʽin	高天	1
 ke	居	1
-ke-tsah	箇隻	1
-ke-yün-go	箇園個	4
+ke-yün-go	居園個	4
 keh	箇	633
 keh	割	3
 keh-cong-ka	箇種介	16
@@ -2632,8 +2626,7 @@ keh-koh-go	箇國個	1
 keh-kwang	箇梗	1
 keh-kwʽe	箇塊	26
 keh-kyü	箇句	33
-keh-kyüô-sah	革迦撒	1
-keh-kyüô-seh	革迦撒	1
+keh-kyüô-sah	革迦撒	2
 keh-kyʽi	箇起	6
 keh-kæn	箇間	2
 keh-kô	箇家	2
@@ -2668,7 +2661,7 @@ keh-tang	箇打	2
 keh-ten	箇𡍲	6
 keh-tong-si	箇東西	1
 keh-ts	箇支	1
-keh-tsah	箇隻	9
+keh-tsah	箇隻	10
 keh-tsao	箇遭	145
 keh-tsiang	箇張	1
 keh-tsih	箇節	5
@@ -3274,8 +3267,7 @@ kyüô-da-gyi	迦大其	28
 kyüô-da-lah	加大拉	3
 kyüô-dæn	迦但	2
 kyüô-lah	迦拉	2
-kyüô-lah-ti	迦勒底	2
-kyüô-leh-ti	迦勒底	1
+kyüô-leh-ti	迦勒底	3
 kyüô-li-li	加利利	62
 kyüô-li-li-go	加利利個	6
 kyüô-liah	加略	5
@@ -4011,7 +4003,7 @@ lin-joh	臉熟	1
 lin-kyʽin	連牽	2
 lin-le	連累	1
 lin-lin-peh-shæ	戀戀不捨	2
-lin-long-liao-go	連攏掉個	1
+lin-long-liao-go	連攏了個	1
 lin-long-tih	連攏的	1
 lin-mông	連忙	2
 lin-nyih	連日	1
@@ -4190,7 +4182,7 @@ lu-zông	路上	24
 lu-zông-go	路上個	3
 læ	來	1844
 læ-de	來了	38
-læ-feh-gyi	來得及	1
+læ-feh-gyi	來弗及	1
 læ-go	來個	83
 læ-gyi	來其	21
 læ-i	來意	1
@@ -4599,7 +4591,7 @@ na	奶	6
 na-go	奶個	1
 na-hwun	奶花	32
 na-hwun-go	奶花個	2
-na-nyi	淖泥	17
+na-nyi	爛泥	17
 na-peh-leh-s	那不勒斯	8
 na-yiu	奶油	1
 nao-diao	踔掉	1
@@ -5280,10 +5272,9 @@ pô-iah-nô	巴約拿	1
 pô-jih-meh	巴實抹	3
 pô-jih-meh-go	巴實抹個	2
 pô-kyih	巴結	5
-pô-lah-ha-nen	巴勒哈南	1
 pô-lah-kyüô	巴拉迦	1
 pô-lah-pô	巴拉巴	12
-pô-leh-ha-nen	巴勒哈南	1
+pô-leh-ha-nen	巴勒哈南	2
 pô-læn	巴蘭	1
 pô-pi-leng	巴比倫	5
 pô-pô	巴巴	3
@@ -5453,7 +5444,7 @@ s-tsʽin	四千	4
 s-tsʽing	四親	1
 s-tsʽô-lu-kʽeo	四岔路口	2
 s-tsʽô-sang	四汊生	1
-s-tông-bo-li	斯當琶里	2
+s-tông-bo-li	斯當婆里	2
 s-vu	師父	7
 s-vu-go	師父個	1
 s-vông-ts	死亡之	1
@@ -5566,7 +5557,7 @@ seh	塞	2
 seh	色	1
 seh-djü	塞住	1
 seh-mun-liao-go	塞滿了個	1
-seh-neh-pô-nyi	撒納巴尼	1
+seh-neh-pô-nyi	瑟納巴尼	1
 seh-seh	塞塞	1
 seh-seh-go	塞塞個	1
 seng-kyʽi	生氣	2
@@ -5691,8 +5682,7 @@ si-lah	洗拉	3
 si-lah-go	西拉個	1
 si-lah-ping	西拉冰	4
 si-li	洗禮	46
-si-liao	死了	1
-si-liao	死掉	1
+si-liao	死了	2
 si-lih	西烈	1
 si-lo-üô	西羅亞	4
 si-lu	死路	1
@@ -5769,8 +5759,7 @@ siang-sing-ts	相信之	3
 siang-tao	想到	2
 siang-tʽong	相通	1
 siang-vu	相符	2
-siang-vông	想望	25
-siang-vông	相逢	1
+siang-vông	想望	26
 siang-ziang	相像	2
 siang-ziang-go	相像個	2
 siang-æ	相愛	6
@@ -6129,9 +6118,8 @@ sæn-we-ih-jing	三位一神	1
 sæn-we-ih-tʽi	三位一體	1
 sæn-we-ʽeh-ih	三位合一	8
 sæn-wu	珊瑚	1
-sæn-yiang	山羊	9
+sæn-yiang	山羊	10
 sæn-yiang-go	山羊個	1
-sæn-ylang	山羊	1
 sæn-zeng	三層	1
 sô	所	452
 sô	赦	7
@@ -6279,8 +6267,7 @@ tao	刀	20
 tao	搗	4
 tao-cü	到主	1
 tao-cʽih-go	倒出個	1
-tao-cʽu	到處	1
-tao-cʽü	到處	28
+tao-cʽü	到處	29
 tao-cʽü-go	到處個	1
 tao-de	到了	32
 tao-diao	倒掉	4
@@ -6766,7 +6753,6 @@ tsiao-tong	照東	1
 tsiao-tsih	招接	4
 tsih	只	67
 tsih	接	16
-tsih	七	1
 tsih	即	1
 tsih-công	執掌	9
 tsih-cü	節制	1
@@ -6791,7 +6777,6 @@ tsih-loh	積落	2
 tsih-loh-go	積落個	1
 tsih-long-kæn	摺攏間	1
 tsih-lôh-læ	積落來	1
-tsih-pah	七百	1
 tsih-shü	汁水	2
 tsih-siao	只消	7
 tsih-teh	只得	1
@@ -7140,7 +7125,7 @@ tsʽiang-pô	槍笆	2
 tsʽiang-pô-yin	槍笆沿	1
 tsʽiang-tsʽiang	搶槍	1
 tsʽiao-li	俏麗	1
-tsʽih	七	15
+tsʽih	七	16
 tsʽih	切	2
 tsʽih-be	七倍	2
 tsʽih-deo	七頭	8
@@ -7154,7 +7139,7 @@ tsʽih-nyih	七日	3
 tsʽih-nyih-go	七日個	7
 tsʽih-nyin	七年	8
 tsʽih-nyin-go	七年個	1
-tsʽih-pah	七百	1
+tsʽih-pah	七百	2
 tsʽih-pah-jih	七八十	1
 tsʽih-te	七對	2
 tsʽih-ting-pah-tao	七丁八倒	1
@@ -7424,7 +7409,7 @@ tʽeo-kwông	透光	2
 tʽeo-kwông-go	透光個	1
 tʽeo-kyʽi	偷去	1
 tʽeo-kyʽi-go	偷去個	1
-tʽeo-lah	偷勒	1
+tʽeo-lah	偷了	1
 tʽeo-leh-kyʽi-de	偷勒去了	1
 tʽeo-liang-go	透亮個	1
 tʽeo-pʽô	偷怕	1
@@ -7526,8 +7511,7 @@ tʽing-meng-go	聽聞個	19
 tʽing-meng-gyi	聽聞其	2
 tʽing-meng-ko	聽聞過	4
 tʽing-meng-ts	聽聞仔	8
-tʽing-tong	聽東	4
-tʽing-tong	聽從	1
+tʽing-tong	聽東	5
 tʽing-tong-go	聽懂個	1
 tʽing-tong-go	聽東個	1
 tʽing-tʽing	聽聽	2
@@ -7645,7 +7629,7 @@ vi-su-vi	維蘇維	3
 voh	服	22
 voh	復	3
 voh-cün-læ	復轉來	1
-voh-lah	服勒	2
+voh-lah	服了	2
 voh-læ	伏來	1
 voh-z	服侍	59
 voh-z-go	服侍個	1
@@ -7932,8 +7916,7 @@ wông-ti-de	皇帝了	1
 wông-ti-go	皇帝個	5
 wông-zông	皇上	1
 w̆a	壞	25
-w̆a-cʽu	壞處	1
-w̆a-cʽü	壞處	6
+w̆a-cʽü	壞處	7
 w̆a-de	壞了	4
 w̆a-go	壞個	6
 w̆a-hyiang-fông	壞鄉方	1
@@ -7972,11 +7955,10 @@ yi-da-nô	以大拿	2
 yi-deh	以特	1
 yi-dong	移動	1
 yi-fah	以法	1
-yi-fah-da	以法大	5
+yi-fah-da	以法大	6
 yi-fah-lin	以法蓮	9
 yi-fah-lin-go	以法蓮個	3
 yi-feh	以弗	1
-yi-feh-da	以法大	1
 yi-feh-dong	移弗動	1
 yi-feh-leng	以弗崙	10
 yi-feh-leng-go	以弗崙個	2
@@ -8028,9 +8010,9 @@ yi-pah	以八	1
 yi-sah	以撒	85
 yi-sah-go	以撒個	13
 yi-sah-kyüô	以薩迦	3
+yi-sah-kyüô-go	以薩迦個	1
 yi-sao	以掃	73
 yi-sao-go	以掃個	9
-yi-seh-kyüô-go	以薩迦個	1
 yi-seh-lih	以色列	69
 yi-seh-lih-go	以色列個	11
 yi-shü-yi	以書以	1
@@ -8234,7 +8216,7 @@ yü-cün	圍轉	3
 yü-dziu	宇宙	3
 yü-kô	愈加	51
 yü-leh	圍勒	1
-yü-ling-ping	御林兵	1
+yü-ling-ping	羽林兵	1
 yü-long-kæn	圍攏間	1
 yü-long-læ	圍攏來	1
 yü-sin	預先	21
@@ -8592,8 +8574,7 @@ zông-cü	上主	9
 zông-cü-go	上主個	4
 zông-deo	上頭	37
 zông-deo-go	上頭個	2
-zông-djôh	嘗着	1
-zông-djôh	嚐着	1
+zông-djôh	嚐着	2
 zông-hao-nyiang	上好樣	1
 zông-hao-s-nyiang-go	上好斯樣個	1
 zông-ko	嚐過	1
@@ -8847,8 +8828,7 @@ zông-ʽô	上下	2
 ʽeh-gyüing	合羣	1
 ʽeh-i	合意	3
 ʽeh-koh	合國	1
-ʽeh-kô	合家	1
-ʽeh-kô	闔家	1
+ʽeh-kô	合家	2
 ʽeh-kô-go	合家個	1
 ʽeh-kʽeo	合口	7
 ʽeh-kʽeo-zi-dong	合口齊動	9
