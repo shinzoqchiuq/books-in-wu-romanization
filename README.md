@@ -102,7 +102,7 @@
   </tr>
    <td align="center">ky</td>
    <td align="center">记郊君结</td>
-   <td align="center">kʽy</td>
+   <td align="center">kyʽ</td>
    <td align="center">气巧轻挈</td>
    <td align="center">gy</td>
    <td align="center">棋桥裙极</td>
