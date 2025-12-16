@@ -2,6 +2,8 @@
 
 宁波土话，1868 年版。
 
+书影来自 [谷歌图书](https://www.google.com/books/edition/Ah_Lah_kyiu_cü_yiæ_su_kyi_toh_go_sing/rUVpAAAAcAAJ)。
+
 人名、地名转写参照官话和合本、上海土白圣经、苏州土白等圣经的译名。转写的文本中使用专名号（下划线）标注了所有的人名、地名。由于 Github 网页不支持显示 Markdown 文件的下划线。因此，在网页端查看 Markdown 文件时，无法看到专名号。想要完整看到带人名、地名标注的转写，请下载 Markdown 文件，并使用支持 Markdown 文件 html 语法的软件打开，或者也可直接下载 PDF 文件查看。
 
 目前仅完成扉页至〈使徒行传〉。
