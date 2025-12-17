@@ -435,7 +435,7 @@
 
 ## 联系
 
-本人能力有限，转写的文本可能存在错误。如果读者有任何问题或是发现了任何错误，欢迎提交 [issue](https://github.com/shinzoqchiuq/books-in-wu-romanization/issues)，或是通过以下邮箱直接与我联系。
+本人能力有限，整理的原文和转写的文本都有出错的可能。如果读者有任何问题或是发现了任何错误，欢迎提交 [issue](https://github.com/shinzoqchiuq/books-in-wu-romanization/issues)，或是通过以下方式直接与我联系。
 
-本人邮箱：shinzoqchiuq@outlook.com
-
+- 邮箱：shinzoqchiuq@outlook.com
+- QQ：1613023143
