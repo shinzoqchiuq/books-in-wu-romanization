@@ -65,7 +65,7 @@ be-hao-tong-go	備好東個	1
 be-hao-ts	備好仔	1
 be-kao	被告	1
 be-su	倍數	1
-beh-cʽih	鼻出	1
+beh-cʽih	浡出	1
 beh-keh	鵓鴿	10
 beng-ts	盆子	1
 beng-ts-li	盆子裏	2
@@ -517,8 +517,7 @@ ding-jih	定實	1
 ding-kwe	定規	8
 ding-kwe-go	定規個	3
 ding-kwe-peh	定規撥	1
-ding-kyin	定堅	3
-ding-kyin	定見	2
+ding-kyin	定見	5
 ding-kæn-go	定間個	1
 ding-leh	定了	1
 ding-ze	定罪	7
@@ -1545,7 +1544,7 @@ ih-zo	一座	9
 ih-zông	一晌	17
 in	煙	1
 in-go	煙個	1
-in-tseng	嫌憎	9
+in-tseng	厭憎	9
 ing	印	4
 ing	應	4
 ing	影	1
@@ -1880,7 +1879,7 @@ ko-tin	過點	1
 ko-ts	果子	38
 ko-tsih	過節	1
 ko-tæn-long	裹帶攏	1
-ko-tön	果斷	1
+ko-tön	過短	1
 ko-z	哥士	1
 ko-zia	過謝	1
 ko-ü	過於	4
@@ -2712,7 +2711,7 @@ lin-fæn	臉番	1
 lin-le	連累	1
 lin-tao	鐮刀	1
 lin-tsih	連只	3
-lin-tsih	連接	1
+lin-tsih	連即	1
 lin-yia	連夜	3
 ling	領	31
 ling	靈	15
@@ -2736,7 +2735,7 @@ ling-se	零碎	14
 ling-sih	淋溼	2
 ling-sing	靈性	7
 ling-sing	零星	1
-ling-sing-coh-cün	靈性折轉	1
+ling-sing-coh-cün	靈性捉轉	1
 ling-sô-kô	鄰舍家	14
 ling-weng	靈魂	1
 ling-zin	領前	1
@@ -3029,7 +3028,7 @@ mun-kæn	滿間	1
 mun-mun	滿滿	6
 mun-mông	滿網	1
 mun-sing	滿心	2
-mun-tsiang	縵帳	3
+mun-tsiang	幔帳	3
 mun-tsoh	滿足	9
 mun-tsoh-de	滿足了	4
 mæ-nen	買南	2
@@ -3051,7 +3050,7 @@ mô-leh-lih	瑪勒列	2
 mô-li-üô	馬利亞	61
 mô-li-üô-go	馬利亞個	2
 mô-nyiæn	馬念	1
-mô-nô	嗎哪	3
+mô-nô	嗎嗱	3
 mô-nô-si	瑪拿西	2
 mô-ping	馬兵	2
 mô-pu	麻布	12
@@ -3395,8 +3394,7 @@ pe	揹	2
 pe-feh-dong-go	揹弗動個	1
 pe-kyʽi	揹起	1
 pe-lah-to	彼拉多	59
-pe-leh	背勒	4
-pe-leh	揹勒	2
+pe-leh	揹勒	6
 pe-shông	悲傷	5
 pe-shông-go	悲傷個	2
 pe-shông-kyʽi-læ-de	悲傷起來了	1
@@ -3909,8 +3907,7 @@ sing-din	聖殿	27
 sing-din-go	聖殿個	3
 sing-din-li	聖殿裏	51
 sing-din-li-go	聖殿裏個	7
-sing-du	聖徒	4
-sing-du	信徒	1
+sing-du	聖徒	5
 sing-dziang	心腸	8
 sing-dzing	性情	2
 sing-dzing	聖城	1
@@ -4295,7 +4292,7 @@ tiu-diao-go	丟掉個	1
 tiu-diao-ts	丟掉仔	4
 tiu-kyʽi	丟棄	2
 tiu-leh	丟勒	9
-tiu-leh-kyʽi-de	丟勒去了	1
+tiu-leh-kyʽi-de	丟了去了	1
 tiu-læ-tiu-kyʽi	丟來丟去	1
 tiu-lôh	丟落	10
 tiu-nyi-siu	丟尼修	1
@@ -4435,8 +4432,7 @@ tseo-lôh-læ	走落來	6
 tseo-ming	奏明	1
 tseo-pin	走遍	4
 tseo-sæn-de	走散了	1
-tseo-tao	走到	7
-tseo-tao	走倒	3
+tseo-tao	走到	10
 tseo-tseo	走走	3
 tseo-tsing	走進	150
 tseo-tsing-go	走進個	7
@@ -5666,8 +5662,8 @@ zông-ʽô	上下	2
 ô-ts	啞子	12
 ô-ts	椏枝	11
 ô-ts-li	椏枝裏	2
-ô-wông	啞喤	9
-ô-wông-siang	啞喤相	1
+ô-wông	𢛟惶	9
+ô-wông-siang	𢛟惶相	1
 ôh	惡	9
 ôh-doh	惡毒	2
 ôh-go	惡個	11
@@ -5746,7 +5742,7 @@ zông-ʽô	上下	2
 üô-pi-üô-tʽah	亞庇亞塔	1
 üô-po-lo	亞波羅	3
 üô-po-lo-nyi-üô	亞波羅尼亞	1
-üô-pô	亞巴	1
+üô-pô	亞爸	1
 üô-sah	亞撒	2
 üô-shoh	亞朔	2
 üô-si-üô	亞西亞	14
@@ -5837,7 +5833,7 @@ zông-ʽô	上下	2
 ʽo-nga	河外	7
 ʽo-næn	禍難	2
 ʽo-se	禍祟	32
-ʽo-sæn-nah	和散那	6
+ʽo-sæn-nah	和散𠺶	6
 ʽo-tih-go	和的個	2
 ʽo-tsʽih-go	和七個	2
 ʽo-yüong	何用	5
