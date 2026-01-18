@@ -495,7 +495,7 @@ cʽih-meng-kyʽi	出門去	1
 cʽih-meng-kæn	出門間	5
 cʽih-meng-nying	出門人	1
 cʽih-ming-go	出名個	1
-cʽih-nyiang-tʽæ	出娘胎	1
+cʽih-nyiang-tʽæ	出孃胎	1
 cʽih-poh	出膊	2
 cʽih-poh-go	出膊個	7
 cʽih-sih	出息	1
@@ -528,7 +528,7 @@ cʽong-kyüing	充軍	4
 cʽong-mun	充滿	10
 cʽong-zông	衝上	1
 cʽong-æ	寵愛	1
-cʽong-æ-go	寵愛個	1
+cʽong-æ-go	寵愛個	2
 cʽô	扯	1
 cʽô-beh	扯鈸	1
 cʽô-bæn	叉牌	3
@@ -540,7 +540,6 @@ cʽông	窗	1
 cʽông-leh-kyʽi	闖勒去	2
 cʽông-meng	窗門	1
 cʽông-tsing	闖進	1
-cʽông-æ-go	寵愛個	1
 cʽü	取	62
 cʽü	娶	23
 cʽü	吹	7
@@ -1654,8 +1653,7 @@ eo-læ	謳來	1
 eo-læ-eo-kyʽi	謳來謳去	1
 eo-tao	傴倒	9
 eo-ts	謳仔	1
-eo-tæn-tao	傴帶倒	7
-eo-tæn-tao	謳單倒	1
+eo-tæn-tao	傴帶倒	8
 eo-tæn-tsing-læ	謳帶進來	1
 fah	發	22
 fah	法	9
@@ -4163,9 +4161,8 @@ kyʽi-læ-de	起來了	3
 kyʽi-mi	氣味	1
 kyʽi-mi-go	氣味個	1
 kyʽi-ming	器皿	7
-kyʽi-mo	企慕	9
+kyʽi-mo	企慕	10
 kyʽi-mo	去慕	1
-kyʽi-mo	起碼	1
 kyʽi-mo-go	企慕個	1
 kyʽi-ngao	氣傲	1
 kyʽi-næn-dao	豈難道	1
@@ -5375,7 +5372,7 @@ m-nao	嘸得好	212
 m-neh	嘸得	314
 m-neh-de	嘸得了	10
 m-neh-go	嘸得個	15
-m-nyiang-go	嘸娘個	1
+m-nyiang-go	嘸孃個	1
 m-nying	嘸人	73
 m-næn	嘸難	1
 m-pæn-pô-go	嘸瘢疤個	1
@@ -5391,7 +5388,7 @@ m-teh	嘸得	8
 m-teh-go	嘸得個	1
 m-ti-kʽang-li	嘸底坑裏	1
 m-tia	嘸爹	1
-m-tia-m-nyiang	嘸爹嘸娘	1
+m-tia-m-nyiang	嘸爹嘸孃	1
 m-tia-nyiang	嘸爹孃	2
 m-tia-nyiang-go	嘸爹孃個	1
 m-tin-ts	嘸點子	1
@@ -5859,7 +5856,7 @@ ng-kwu	五股	3
 ng-kwʽe	五塊	1
 ng-lah	爾拉	1516
 ng-lah-go	爾拉個	117
-ng-lah-teh-kyʽi	爾拉得氣	1
+ng-lah-teh-kyʽi	爾拉德氣	1
 ng-ling	魚鱗	1
 ng-loh-jih-væn	五六十萬	1
 ng-ngô-go	爾我個	1
@@ -6045,10 +6042,9 @@ nyiah-zao	捏造	1
 nyiang	讓	9
 nyiang-cʽih	讓出	1
 nyiang-gyiu	孃舅	4
-nyiang-ts	孃子	19
-nyiang-ts	娘子	3
+nyiang-ts	娘子	22
 nyiang-ts-den	娘子頭	1
-nyiang-ts-go	孃子個	3
+nyiang-ts-go	娘子個	3
 nyiang-tʽæ	孃胎	4
 nyiang-vông	仰望	8
 nyiang-vông-go	仰望個	1
@@ -7937,8 +7933,7 @@ tao-leh-me	倒了霉	1
 tao-lo-mô-koh	到羅馬國	1
 tao-loh	倒落	1
 tao-læ	倒來	1
-tao-me	倒霉	10
-tao-me	倒黴	1
+tao-me	倒霉	11
 tao-me-go	倒霉個	1
 tao-meh	倒沒	1
 tao-meh-de	倒沒了	2
