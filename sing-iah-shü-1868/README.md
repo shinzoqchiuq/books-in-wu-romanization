@@ -6,7 +6,7 @@
 
 人名、地名转写参照官话和合本、上海土白圣经、苏州土白等圣经的译名。转写的文本中使用专名号（下划线）标注了所有的人名、地名。由于 Github 网页不支持显示 Markdown 文件的下划线。因此，在网页端查看 Markdown 文件时，无法看到专名号。想要完整看到带人名、地名标注的转写，请下载 Markdown 文件，并使用支持 Markdown 文件 html 语法的软件打开，或者也可直接下载 PDF 文件查看。
 
-目前已完成扉页至〈帖撒罗尼迦书信2〉。
+目前已完成扉页至〈提摩太书信2〉。
 
 <table>
  <thead>
@@ -161,6 +161,24 @@
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/14_帖撒羅尼迦書信2.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/14_帖撒羅尼迦書信2.pdf">備用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/14_帖撒罗尼迦书信2-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/14_帖撒罗尼迦书信2-ruby.pdf">备用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/14_帖撒羅尼迦書信2-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/14_帖撒羅尼迦書信2-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">提摩太书信1</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/15_提摩太书信1.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/15_提摩太書信1.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/15_提摩太书信1.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/15_提摩太书信1.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/15_提摩太書信1.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/15_提摩太書信1.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/15_提摩太书信1-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/15_提摩太书信1-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/15_提摩太書信1-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/15_提摩太書信1-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">提摩太书信2</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/16_提摩太书信2.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/16_提摩太書信2.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/16_提摩太书信2.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/16_提摩太书信2.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/16_提摩太書信2.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/16_提摩太書信2.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/16_提摩太书信2-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/16_提摩太书信2-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/16_提摩太書信2-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/16_提摩太書信2-ruby.pdf">備用</a></td>
   </tr>
  </tbody>
 </table>
