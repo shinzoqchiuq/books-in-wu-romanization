@@ -6,7 +6,7 @@
 
 人名、地名转写参照官话和合本、上海土白圣经、苏州土白等圣经的译名。转写的文本中使用专名号（下划线）标注了所有的人名、地名。由于 Github 网页不支持显示 Markdown 文件的下划线。因此，在网页端查看 Markdown 文件时，无法看到专名号。想要完整看到带人名、地名标注的转写，请下载 Markdown 文件，并使用支持 Markdown 文件 html 语法的软件打开，或者也可直接下载 PDF 文件查看。
 
-目前已完成扉页至〈希伯来书信〉。
+目前已完成扉页至〈犹大书信〉。
 
 <table>
  <thead>
@@ -206,6 +206,69 @@
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/19_希伯來書信.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/19_希伯來書信.pdf">備用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/19_希伯来书信-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/19_希伯来书信-ruby.pdf">备用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/19_希伯來書信-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/19_希伯來書信-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">雅各书信</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/20_雅各书信.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/20_雅各書信.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/20_雅各书信.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/20_雅各书信.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/20_雅各書信.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/20_雅各書信.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/20_雅各书信-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/20_雅各书信-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/20_雅各書信-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/20_雅各書信-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">彼得书信1</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/21_彼得书信1.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/21_彼得書信1.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/21_彼得书信1.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/21_彼得书信1.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/21_彼得書信1.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/21_彼得書信1.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/21_彼得书信1-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/21_彼得书信1-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/21_彼得書信1-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/21_彼得書信1-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">彼得书信2</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/22_彼得书信2.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/22_彼得書信2.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/22_彼得书信2.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/22_彼得书信2.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/22_彼得書信2.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/22_彼得書信2.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/22_彼得书信2-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/22_彼得书信2-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/22_彼得書信2-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/22_彼得書信2-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">约翰书信1</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/23_约翰书信1.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/23_約翰書信1.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/23_约翰书信1.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/23_约翰书信1.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/23_約翰書信1.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/23_約翰書信1.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/23_约翰书信1-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/23_约翰书信1-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/23_約翰書信1-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/23_約翰書信1-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">约翰书信2</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/24_约翰书信2.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/24_約翰書信2.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/24_约翰书信2.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/24_约翰书信2.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/24_約翰書信2.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/24_約翰書信2.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/24_约翰书信2-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/24_约翰书信2-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/24_約翰書信2-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/24_約翰書信2-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">约翰书信3</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/25_约翰书信3.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/25_約翰書信3.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/25_约翰书信3.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/25_约翰书信3.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/25_約翰書信3.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/25_約翰書信3.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/25_约翰书信3-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/25_约翰书信3-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/25_約翰書信3-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/25_約翰書信3-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">犹大书信</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/26_犹大书信.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/26_猶大書信.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/26_犹大书信.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/26_犹大书信.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/26_犹大书信-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/26_犹大书信-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信-ruby.pdf">備用</a></td>
   </tr>
  </tbody>
 </table>
