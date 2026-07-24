@@ -6,8 +6,6 @@
 
 人名、地名转写参照官话和合本、上海土白圣经、苏州土白等圣经的译名。转写的文本中使用专名号（下划线）标注了所有的人名、地名。由于 Github 网页不支持显示 Markdown 文件的下划线。因此，在网页端查看 Markdown 文件时，无法看到专名号。想要完整看到带人名、地名标注的转写，请下载 Markdown 文件，并使用支持 Markdown 文件 html 语法的软件打开，或者也可直接下载 PDF 文件查看。
 
-目前已完成扉页至〈犹大书信〉。
-
 <table>
  <thead>
   <tr>
@@ -269,6 +267,15 @@
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信.pdf">備用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/26_犹大书信-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/26_犹大书信-ruby.pdf">备用</a></td>
    <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/26_猶大書信-ruby.pdf">備用</a></td>
+  </tr>
+  <tr>
+   <th align="center">约翰个默示录</th>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/简体/27_约翰个默示录.md">链接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/blob/master/sing-iah-shü-1868/繁體/27_約翰個默示錄.md">鏈接</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/27_约翰个默示录.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/27_约翰个默示录.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/27_約翰個默示錄.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/27_約翰個默示錄.pdf">備用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/27_约翰个默示录-ruby.pdf">链接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/简体/27_约翰个默示录-ruby.pdf">备用</a></td>
+   <td><a href="https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/27_約翰個默示錄-ruby.pdf">鏈接</a> <a href="https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sing-iah-shü-1868/繁體/27_約翰個默示錄-ruby.pdf">備用</a></td>
   </tr>
  </tbody>
 </table>
