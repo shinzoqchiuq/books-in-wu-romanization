@@ -19,23 +19,23 @@
 - 《[圣诗](https://id.lib.harvard.edu/alma/990081263200203941/catalog)》\[美\] 丁韪良 译 1857
 - 《[新约书](https://www.google.com/books/edition/Ah_Lah_kyiu_cü_yiæ_su_kyi_toh_go_sing/rUVpAAAAcAAJ)》1868
 - 《[以赛亚书](https://daozaishenzhou.wordpress.com/2020/12/02/fangyan/)》\[美\] 罗尔梯 译 1870
-- 《[民数记略]( https://id.lib.harvard.edu/alma/990081283790203941/catalog)》1895
-- 《[新约书]( http://id.lib.harvard.edu/alma/990081450940203941/catalog)》1898
+- 《[民数记略](https://id.lib.harvard.edu/alma/990081283790203941/catalog)》1895
+- 《[新约书](https://id.lib.harvard.edu/alma/990081450940203941/catalog)》1898
 - 《[创世记](https://id.lib.harvard.edu/alma/990081283800203941/catalog)》1899
-- 《[出埃及记]( http://id.lib.harvard.edu/alma/990081283840203941/catalog)》1899
-- 《[约书亚记]( https://id.lib.harvard.edu/alma/990081283740203941/catalog)》1899
-- 《[列王记略]( https://id.lib.harvard.edu/alma/990081283780203941/catalog)》1900
-- 《[撒母耳记]( https://id.lib.harvard.edu/alma/990081283770203941/catalog)》1900
+- 《[出埃及记](https://id.lib.harvard.edu/alma/990081283840203941/catalog)》1899
+- 《[约书亚记](https://id.lib.harvard.edu/alma/990081283740203941/catalog)》1899
+- 《[列王记略](https://id.lib.harvard.edu/alma/990081283780203941/catalog)》1900
+- 《[撒母耳记](https://id.lib.harvard.edu/alma/990081283770203941/catalog)》1900
 - 《[士师记](https://id.lib.harvard.edu/alma/990081283760203941/catalog)》1900
 - 《[新约书](https://daozaishenzhou.wordpress.com/2020/12/02/fangyan/)》1906
 - 《[旧约书](https://daozaishenzhou.wordpress.com/2020/12/02/fangyan/)》1923
 
 ## 诗歌
 
-- 《[赞美真神诗](http://id.lib.harvard.edu/alma/990081438170203941/catalog)》1851
+- 《[赞美真神诗](https://id.lib.harvard.edu/alma/990081438170203941/catalog)》1851
 - 《[赞神乐章](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2316)》1856
 - 《[赞神乐章](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1636)》1856
-- 《[圣山谐歌](http://id.lib.harvard.edu/alma/990081438140203941/catalog)》1858
+- 《[圣山谐歌](https://id.lib.harvard.edu/alma/990081438140203941/catalog)》1858
 - 《[赞美诗](https://catalog.princeton.edu/catalog/9930372423506421)》1860
 - 《[赞美诗](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1808)》1874
 - 《[赞美诗（汉字本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1471)》1874
@@ -44,7 +44,7 @@
 
 - 《[宁波土话初学](https://catalog.princeton.edu/catalog/9927764283506421)》1851
 - 《[地理书 卷四](https://salamandre.college-de-france.fr/archives-en-ligne/ead.html?id=FR075CDF_00CDF00SA&c=FR075CDF_00CDF00SA_de-8)》\[美\] 丁韪良 著 1852
-- 《[地球图]( https://id.lib.harvard.edu/alma/990081561530203941/catalog)》1853
+- 《[地球图](https://id.lib.harvard.edu/alma/990081561530203941/catalog)》1853
 - 《[初学地理问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1824)》1873
 
 ## 宗教劝导
