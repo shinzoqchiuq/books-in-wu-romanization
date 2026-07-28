@@ -17,5 +17,5 @@
 
 |      | Markdown 格式文本                       | PDF 格式文件                                                 |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 简体 | [链接](./赞美真神诗.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/tsæn-me-tsing-jing-s-1851/赞美真神诗.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/tsæn-me-tsing-jing-s-1851/赞美真神诗.pdf) |
-| 繁體 | [鏈接](./讚美真神詩.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/tsæn-me-tsing-jing-s-1851/讚美真神詩.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/tsæn-me-tsing-jing-s-1851/讚美真神詩.pdf) |
+| 简体 | [链接](./赞美真神诗.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/tsæn-me-tsing-jing-s-1851/赞美真神诗.pdf) |
+| 繁體 | [鏈接](./讚美真神詩.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/tsæn-me-tsing-jing-s-1851/讚美真神詩.pdf) |

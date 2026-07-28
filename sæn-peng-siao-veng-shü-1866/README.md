@@ -6,8 +6,8 @@
 
 |      | Markdown                 | PDF（对照）                                                  | PDF（注音）                                                  |
 | ---- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 简体 | [链接](./三本小文书.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文书.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文书.pdf) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文书-ruby.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文书-ruby.pdf) |
-| 繁體 | [鏈接](./三本小文書.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文書.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文書.pdf) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文書-ruby.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文書-ruby.pdf) |
+| 简体 | [链接](./三本小文书.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文书.pdf) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文书-ruby.pdf) |
+| 繁體 | [鏈接](./三本小文書.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文書.pdf) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/sæn-peng-siao-veng-shü-1866/三本小文書-ruby.pdf) |
 
 ## 字词统计
 

@@ -16,8 +16,8 @@
 
 |      | Markdown                 | PDF（对照）                                                  | PDF（注音）                                                  |
 | ---- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 简体 | [链接](./四则故事.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四则故事.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四则故事.pdf) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四则故事-ruby.pdf) [备用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四则故事-ruby.pdf) |
-| 繁體 | [鏈接](./四則故事.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四則故事.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四則故事.pdf) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四則故事-ruby.pdf)  [備用](https://gitee.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四則故事-ruby.pdf) |
+| 简体 | [链接](./四则故事.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四则故事.pdf) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四则故事-ruby.pdf) |
+| 繁體 | [鏈接](./四則故事.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四則故事.pdf) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/four-stories-1869/四則故事-ruby.pdf) |
 
 ## 字词统计
 
