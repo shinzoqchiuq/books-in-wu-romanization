@@ -9,6 +9,7 @@ cd "$(dirname "$0")/../.."
 ROOT="$(pwd)"
 WT="$ROOT/.ruby-src-wt"
 
+git worktree prune  # 清理已刪除的 worktree 殘留
 git worktree remove "$WT" --force 2>/dev/null || true
 
 if git show-ref --verify --quiet refs/heads/site-src; then
