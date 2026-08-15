@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>查詢 — 寧波話羅馬字文獻</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="search">
+<header class="topbar">
+  <a class="brand" href="index.html">寧波話羅馬字文獻</a>
+  <nav class="booknav"><a href="index.html">首頁</a></nav>
+  <form class="topbar-search" action="search.html" role="search">
+    <input type="text" name="q" placeholder="查漢字/羅馬字">
+    <button type="submit">搜</button>
+  </form>
+</header>
+
+<main class="search-main">
+  <h1>查詢</h1>
+  <div class="tabs">
+    <button data-tab="syll" class="active" type="button">字音</button>
+    <button data-tab="word" type="button">詞彙</button>
+  </div>
+  <div class="querybar">
+    <input type="text" id="q" placeholder="輸入漢字或羅馬字，如：阿 / iah-seh / ^a" autocomplete="off">
+    <label><input type="checkbox" id="regex"> 正則</label>
+    <label><input type="checkbox" id="exact"> 完全匹配</label>
+  </div>
+  <div class="rom-chars" id="rom-chars">
+    <span>羅馬字特殊字符：</span>
+    <button type="button" data-char="ʽ">ʽ</button>
+    <button type="button" data-char="æ">æ</button>
+    <button type="button" data-char="ô">ô</button>
+    <button type="button" data-char="ö">ö</button>
+    <button type="button" data-char="ü">ü</button>
+    <button type="button" data-char="m̆">m̆</button>
+    <button type="button" data-char="n̆">n̆</button>
+    <button type="button" data-char="w̆">w̆</button>
+  </div>
+  <p class="meta">說明：輸入含漢字時查「漢字」欄，否則查「羅馬字」欄；勾選「正則」後按正則表達式匹配，「完全匹配」開啟後只顯示與輸入完全一致的結果（優先於正則）。詞彙結果可點擊查看上下文；點擊表頭可按漢字 / 羅馬字 / 出現次數排序並切換升降序。</p>
+  <div id="results"></div>
+</main>
+
+<footer class="site-footer">
+  <a href="https://github.com/shinzoqchiuq/books-in-wu-romanization">GitHub 倉庫</a>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

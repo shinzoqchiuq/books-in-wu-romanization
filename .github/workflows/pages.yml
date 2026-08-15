@@ -1,0 +1,53 @@
+# 部署到 GitHub Pages（雙分支方案）：
+#   master    —— 文本源碼 + web/ 源碼（html/assets/build 腳本），不含構建產物與 -ruby.md
+#   site-src  —— 只含各書的 -ruby.md（構建必需輸入）
+# push master 或 site-src 時：檢出兩個分支 → 運行 web/build/build_site.py → 發布到 Pages。
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [master, site-src]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 檢出 master
+        uses: actions/checkout@v4
+        with:
+          path: main
+      - name: 檢出 site-src（-ruby.md）
+        uses: actions/checkout@v4
+        with:
+          ref: site-src
+          path: ruby
+      - name: 檢查 -ruby.md 是否存在
+        run: |
+          if [ ! -n "$(find ruby -name '*-ruby.md' | head -n 1)" ]; then
+            echo "錯誤：site-src 分支為空，請先運行 web/build/sync-ruby-src.sh 建立 site-src。"
+            exit 1
+          fi
+      - name: 覆蓋 -ruby.md 並構建
+        run: |
+          cp -r ruby/. main/
+          cd main
+          python3 web/build/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: main/web
+      - id: deployment
+        uses: actions/deploy-pages@v4
