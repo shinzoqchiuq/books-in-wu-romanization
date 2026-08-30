@@ -2,7 +2,7 @@
 
 〈<ruby><rb>孤哀子</rb><rt>KWU-Æ-TS</rt><rb>碰着</rb><rt>PʽONG-DJOH</rt><rb>朋友</rb><rt>BENG-YIU</rt></ruby>〉
 
-<ruby><rb>等</rb><rt>teng</rt></ruby>〈<ruby><rb>懊悔</rb><rt>AO-HWE</rt><rb>说话</rb><rt>SHIH-HWÔNG</rt><rb>欠早</rb><rt>KYʽIN-TSAO</rt></ruby>〉
+<ruby><rb>等</rb><rt>teng</rt></ruby>〈<ruby><rb>懊悔</rb><rt>AO-HWE</rt><rb>说谎</rb><rt>SHIH-HWÔNG</rt><rb>欠早</rb><rt>KYʽIN-TSAO</rt></ruby>〉
 
 <ruby><rb>箇</rb><rt>Keh</rt><rb>三本</rb><rt>sæn-peng</rt><rb>小</rb><rt>siao</rt><rb>文书</rb><rt>Veng-shü</rt><rb>是</rb><rt>z</rt><rb>慕</rb><rt>MO</rt><rb>师母</rb><rt>S-MEO</rt><rb>所造个</rb><rt>SÔ-ZAO-GO</rt></ruby>。
 
@@ -198,7 +198,7 @@ BRADBURY, EVANS, & CO., 11, BOUVERIE STREET.
 
 ---
 
-## <ruby><rb>懊悔</rb><rt>AO-HWE</rt><rb>说话</rb><rt>SHIH-HWÔNG</rt><rb>欠早</rb><rt>KYʽIN-TSAO</rt></ruby>
+## AO-HWE SHIH-HWÔNG KYʽIN-TSAO. 懊悔说谎欠早
 
 <ruby><rb>有</rb><rt>YIU</rt><rb>一个</rb><rt>ih-go</rt><rb>阿爹</rb><rt>ah-tia</rt><rb>劝劝</rb><rt>kyʽün-kyʽün</rt><rb>其</rb><rt>gyi</rt><rb>小人</rb><rt>siao-nying</rt></ruby>，<ruby><rb>话</rb><rt>wô</rt></ruby>：「<ruby><rb>有</rb><rt>Yiu</rt><rb>一起</rb><rt>ih-kyʽi</rt><rb>事干</rb><rt>z-ken</rt><rb>我</rb><rt>ngô</rt><rb>重生</rb><rt>djong-sang</rt><rb>重世</rb><rt>djong-si</rt><rb>𣍐</rb><rt>ve</rt><rb>忘记</rb><rt>mông-kyi</rt></ruby>，<ruby><rb>箇起</rb><rt>keh-kyʽi</rt><rb>事干</rb><rt>z-ken</rt><rb>我</rb><rt>ngô</rt><rb>难间</rb><rt>næn-kæn</rt><rb>会</rb><rt>we</rt><rb>详细</rb><rt>dziang-si</rt><rb>讲拨</rb><rt>kông-peh</rt><rb>尔</rb><rt>ng</rt><rb>听</rb><rt>tʽing</rt></ruby>。」
 
