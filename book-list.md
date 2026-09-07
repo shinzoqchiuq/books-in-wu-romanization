@@ -29,6 +29,7 @@
 - 《[士师记](https://id.lib.harvard.edu/alma/990081283760203941/catalog)》1900
 - 《[新约书](https://daozaishenzhou.wordpress.com/2020/12/02/fangyan/)》1906
 - 《[旧约书](https://daozaishenzhou.wordpress.com/2020/12/02/fangyan/)》1923
+- 《[新约书](https://bible.fhl.net/ob/ro.php?book=441&procb=1)》1929
 
 ## 诗歌
 
@@ -53,6 +54,8 @@
 - 《[幼童初晓](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1799)》1859
 - 《[预备饭餐自查察自](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1404)》1866
 - 《[天路指南](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2026)》1866
+- 《[日积月累（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》1868
+- 《[日积月累（第二本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》1869
 - 《[福音道理领径问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1263)》1870
 - 《[耶稣教问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1276)》1872
 - 《[小羊走岔路](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1132)》1875
