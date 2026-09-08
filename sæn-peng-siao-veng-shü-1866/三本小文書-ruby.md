@@ -198,7 +198,7 @@ BRADBURY, EVANS, & CO., 11, BOUVERIE STREET.
 
 ---
 
-## AO-HWE SHIH-HWÔNG KYʽIN-TSAO. 懊悔說謊欠早
+## <ruby><rb>懊悔</rb><rt>AO-HWE</rt><rb>說謊</rb><rt>SHIH-HWÔNG</rt><rb>欠早</rb><rt>KYʽIN-TSAO</rt></ruby>
 
 <ruby><rb>有</rb><rt>YIU</rt><rb>一個</rb><rt>ih-go</rt><rb>阿爹</rb><rt>ah-tia</rt><rb>勸勸</rb><rt>kyʽün-kyʽün</rt><rb>其</rb><rt>gyi</rt><rb>小人</rb><rt>siao-nying</rt></ruby>，<ruby><rb>話</rb><rt>wô</rt></ruby>：「<ruby><rb>有</rb><rt>Yiu</rt><rb>一起</rb><rt>ih-kyʽi</rt><rb>事幹</rb><rt>z-ken</rt><rb>我</rb><rt>ngô</rt><rb>重生</rb><rt>djong-sang</rt><rb>重世</rb><rt>djong-si</rt><rb>𣍐</rb><rt>ve</rt><rb>忘記</rb><rt>mông-kyi</rt></ruby>，<ruby><rb>箇起</rb><rt>keh-kyʽi</rt><rb>事幹</rb><rt>z-ken</rt><rb>我</rb><rt>ngô</rt><rb>難間</rb><rt>næn-kæn</rt><rb>會</rb><rt>we</rt><rb>詳細</rb><rt>dziang-si</rt><rb>講撥</rb><rt>kông-peh</rt><rb>爾</rb><rt>ng</rt><rb>聽</rb><rt>tʽing</rt></ruby>。」
 
