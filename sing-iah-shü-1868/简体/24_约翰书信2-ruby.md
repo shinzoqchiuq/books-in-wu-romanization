@@ -1,4 +1,4 @@
-## S-DU IAH-ʽEN-GO SHÜ-SING. DI-NYI-FONG. 使徒<u>约翰</u>个书信 第二封
+## <ruby><rb>使徒</rb><rt>S-DU</rt></ruby><ruby><rb><u>约翰</u>个</rb><rt>IAH-ʽEN-GO</rt><rb>书信</rb><rt>SHÜ-SING</rt></ruby> <ruby><rb>第二封</rb><rt>DI-NYI-FON</rt></ruby>
 
 ### 2Iʽe. I.
 

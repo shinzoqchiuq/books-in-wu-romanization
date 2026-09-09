@@ -859,7 +859,7 @@ C. D. B. ” <ruby><rb>中</rb><rt>Cong</rt><rb>長</rb><rt>Dziang</rt><rb>部</
 
 4
 
-<ruby><rb>無所不知</rb><rt>Vu-sô-peh-cü</rt></ruby>，<ruby><rb>威嚴</rb><rt>w̆e-nyin</rt></ruby><sup> </sup><ruby><rb>頂</rb><rt>ting</rt><rb>大</rb><rt>do</rt></ruby>，
+<ruby><rb>無所不知</rb><rt>Vu-sô-peh-cü</rt></ruby>，<ruby><rb>威嚴</rb><rt>w̆e-nyin</rt></ruby><sup>\[1\]</sup><ruby><rb>頂</rb><rt>ting</rt><rb>大</rb><rt>do</rt></ruby>，
 
 <ruby><rb>罪人</rb><rt>Ze-nying</rt><rb>真真</rb><rt>tsing-tsing</rt><rb>逃門</rb><rt>dao-meng</rt><rb>弗過</rb><rt>feh-ko</rt></ruby>；
 
@@ -1469,7 +1469,7 @@ C. D. B. ” <ruby><rb>中</rb><rt>Cong</rt><rb>長</rb><rt>Dziang</rt><rb>部</
 
 3
 
-<ruby><rb>永遠</rb><rt>Üong-yün</rt><rb>天父</rb><rt>Tʽin-Vu</rt></ruby>！<ruby><rb>高大</rb><rt>kao-do</rt></ruby><sup> </sup><ruby><rb>威嚴</rb><rt>w̆e-nyin</rt></ruby>，
+<ruby><rb>永遠</rb><rt>Üong-yün</rt><rb>天父</rb><rt>Tʽin-Vu</rt></ruby>！<ruby><rb>高大</rb><rt>kao-do</rt></ruby><sup>\[1\]</sup><ruby><rb>威嚴</rb><rt>w̆e-nyin</rt></ruby>，
 
 <ruby><rb>權柄</rb><rt>Gyün-ping</rt></ruby>，<ruby><rb>榮華</rb><rt>yüong-wô</rt><rb>都</rb><rt>tu</rt><rb>歸撥</rb><rt>kwe-peh</rt><rb>其</rb><rt>Gyi</rt></ruby>；
 
@@ -3429,7 +3429,7 @@ C. D. B. ” <ruby><rb>中</rb><rt>Cong</rt><rb>長</rb><rt>Dziang</rt><rb>部</
 
 <ruby><rb>犯人</rb><rt>Væn-nying</rt><rb>來</rb><rt>læ</rt><rb>箇個</rb><rt>keh-go</rt><rb>池</rb><rt>dzi</rt><rb>好</rb><rt>hao</rt><rb>滰</rb><rt>gyiang</rt></ruby>
 
-<ruby><rb>罪愆</rb><rt>Ze-kyʽin</rt><rb>漬洡</rb><rt>tsih-le</rt></ruby><sup> </sup><ruby><rb>乾淨</rb><rt>ken-zing</rt></ruby>。
+<ruby><rb>罪愆</rb><rt>Ze-kyʽin</rt><rb>漬洡</rb><rt>tsih-le</rt></ruby><sup>\[1\]</sup><ruby><rb>乾淨</rb><rt>ken-zing</rt></ruby>。
 
 <sup>\[1\] 污漬</sup>
 
@@ -8049,7 +8049,7 @@ C. D. B. ” <ruby><rb>中</rb><rt>Cong</rt><rb>長</rb><rt>Dziang</rt><rb>部</
 
 <ruby><rb>等</rb><rt>Teng</rt><rb>懦弱</rb><rt>no-ziah</rt><rb>人</rb><rt>nying</rt><rb>幫助</rb><rt>pông-dzu</rt></ruby>。
 
-<ruby><rb>其</rb><rt>Gyi</rt><rb>降落</rb><rt>kông-lôh</rt></ruby><sup> </sup><ruby><rb>會</rb><rt>we</rt><rb>像</rb><rt>ziang</rt><rb>露水</rb><rt>lu-shü</rt></ruby>，
+<ruby><rb>其</rb><rt>Gyi</rt><rb>降落</rb><rt>kông-lôh</rt></ruby><sup>\[1\]</sup><ruby><rb>會</rb><rt>we</rt><rb>像</rb><rt>ziang</rt><rb>露水</rb><rt>lu-shü</rt></ruby>，
 
 <ruby><rb>浸</rb><rt>Tsing</rt><rb>到處</rb><rt>tao-cʽü</rt><rb>咸地</rb><rt>ʽen-di</rt></ruby>；
 
@@ -8069,7 +8069,7 @@ C. D. B. ” <ruby><rb>中</rb><rt>Cong</rt><rb>長</rb><rt>Dziang</rt><rb>部</
 
 <ruby><rb>磕頭</rb><rt>Kʽeh-deo</rt></ruby>，<ruby><rb>服</rb><rt>voh</rt><rb>其</rb><rt>Gyi</rt><rb>該管</rb><rt>kæ-kwun</rt></ruby>。
 
-<ruby><rb>萬民</rb><rt>Væn-ming</rt><rb>長通</rb><rt>dziang-tʽong</rt><rb>祝讚</rb><rt>coh-tsæn</rt></ruby><sup> </sup><ruby><rb>其</rb><rt>Gyi</rt></ruby>，
+<ruby><rb>萬民</rb><rt>Væn-ming</rt><rb>長通</rb><rt>dziang-tʽong</rt><rb>祝讚</rb><rt>coh-tsæn</rt></ruby><sup>\[1\]</sup><ruby><rb>其</rb><rt>Gyi</rt></ruby>，
 
 <ruby><rb>來</rb><rt>Læ</rt><rb>其</rb><rt>Gyi</rt><rb>面前</rb><rt>min-zin</rt><rb>求拜</rb><rt>gyiu-pa</rt></ruby>；
 
@@ -8549,7 +8549,7 @@ C. D. B. ” <ruby><rb>中</rb><rt>Cong</rt><rb>長</rb><rt>Dziang</rt><rb>部</
 
 <ruby><rb>兩邊</rb><rt>LIANG-PIN</rt><rb>都</rb><rt>tu</rt><rb>有</rb><rt>yiu</rt><rb>無岸</rb><rt>vu-ngen</rt><rb>海洋</rb><rt>hæ-yiang</rt></ruby>，
 
-<ruby><rb>箇</rb><rt>Keh</rt><rb>狹窄</rb><rt>ʽah-tsah</rt></ruby><sup> </sup><ruby><rb>連拼</rb><rt>lin-pʽing</rt><rb>當</rb><rt>tông</rt><rb>中央</rb><rt>cong-nyiang</rt></ruby>，
+<ruby><rb>箇</rb><rt>Keh</rt><rb>狹窄</rb><rt>ʽah-tsah</rt></ruby><sup>\[1\]</sup><ruby><rb>連拼</rb><rt>lin-pʽing</rt><rb>當</rb><rt>tông</rt><rb>中央</rb><rt>cong-nyiang</rt></ruby>，
 
 <ruby><rb>我</rb><rt>Ngô</rt><rb>還</rb><rt>wa</rt><rb>箇晌</rb><rt>keh-zông</rt><rb>立落</rb><rt>lih-lôh</rt></ruby>；
 
@@ -8771,7 +8771,7 @@ C. D. B. ” <ruby><rb>中</rb><rt>Cong</rt><rb>長</rb><rt>Dziang</rt><rb>部</
 
 ### 158. C. B.
 
-<sub><ruby><rb>想</rb><rt><sub>Siang</rt><rb>天上</rb><rt>tʽin-zông</rt><rb>福氣</rb><rt>foh-kyʽi</sub></rt></ruby>。<sup> </sup></sub>
+<sub><ruby><rb>想</rb><rt><sub>Siang</rt><rb>天上</rb><rt>tʽin-zông</rt><rb>福氣</rb><rt>foh-kyʽi</sub></rt></ruby>。<sup>\[1\]</sup></sub>
 
 <sup>\[1\] 原書殘損，據 1874 年版補全爲「福氣」</sup>
 
