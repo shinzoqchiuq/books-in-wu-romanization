@@ -65,26 +65,26 @@
 - （无书影）《[地理书 卷一](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2127)》\[美\] 丁韪良 著 1859
 - （无书影）《[贡旦丢士](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2267)》1861
 - （无书影）《[宁波土话初学](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1016)》\[美\] 兰显理 著 1871
-- 《[初学地理问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1579)》Joseph Anderson Leyenberger 著 1873
+- 《[初学地理问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1579)》雷应百 著 1873
 - （无书影）《[地理问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1043)》\[英\] 岳腓烈 著 1875
 - （无书影）《[宁波土话初学](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2184)》\[美\] 兰显理 著 1883
 
 ## 宗教劝导
 
 - 《[训幼韵文](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1644)》\[美\] 孟丁元 著 1858
-- 《[幼童初晓](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1550)》\[英\] Favell Lee Mortimer 著 \[美\] Helen Sanford Coan Nevius 译 1859
+- 《[幼童初晓](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1550)》\[英\] Favell Lee Mortimer 著 \[美\] 倪戈氏（倪维思夫人）译 1859
 - （无书影）《[训蒙圣经功课](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2108)》Lucy Ann Kowlton 著 1860
 - （无书影）《[众祷告文等洗礼、晚餐，连公会所定个一切祝文](https://east-asian.bodleian.ox.ac.uk/catalog/volume_524)》\[英\] 慕稼谷 著 1860
 - （无书影）《[欢喜圣书个娘子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2263)》1861
 - （无书影）《[后头日子长长东](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2264)》1861
 - （无书影）《[谨防欠早](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2265)》1861
 - （无书影）《[审判日子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2266)》1861
-- （无书影）《[旅人入胜](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1510)》\[英\] John Bunyan 著 \[美\] 柯播义 译 1864
+- （无书影）《[旅人入胜](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1510)》\[英\] John Bunyan 著 \[英\] 柯播义 译 1864
 - 《[预备饭餐自查察自](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2204)》\[英\] 慕师母（慕稼谷夫人）著 1866
 - 《[天路指南](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1436)》\[美\] 倪维思 著 1866
-- 《[日积月累（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[美\] 柯播义 译 1868
+- 《[日积月累（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[英\] 柯播义 译 1868
 - 《[天路指南](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2216)》\[美\] 倪维思 著 1868
-- 《[日积月累（第二本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[美\] 柯播义 译 1869
+- 《[日积月累（第二本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[英\] 柯播义 译 1869
 - 《[福音道理领径问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_967)》\[美\] 丁韪良 著 1870
 - 《[耶稣教问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_980)》Matilda Laurence 著 1872
 - （无书影）《[讲解（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2207)》\[英\] 慕稼谷 著 1872
