@@ -73,7 +73,7 @@
 
 - 《[训幼韵文](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1644)》\[美\] 孟丁元 著 1858
 - 《[幼童初晓](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1550)》\[英\] Favell Lee Mortimer 著 \[美\] 倪戈氏（倪维思夫人）译 1859
-- （无书影）《[训蒙圣经功课](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2108)》Lucy Ann Kowlton 著 1860
+- （无书影）《[训蒙圣经功课](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2108)》\[美\] 那尔敦夫人 著 1860
 - （无书影）《[众祷告文等洗礼、晚餐，连公会所定个一切祝文](https://east-asian.bodleian.ox.ac.uk/catalog/volume_524)》\[英\] 慕稼谷 著 1860
 - （无书影）《[欢喜圣书个娘子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2263)》1861
 - （无书影）《[后头日子长长东](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2264)》1861
@@ -86,9 +86,9 @@
 - 《[天路指南](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2216)》\[美\] 倪维思 著 1868
 - 《[日积月累（第二本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[英\] 柯播义 译 1869
 - 《[福音道理领径问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_967)》\[美\] 丁韪良 著 1870
-- 《[耶稣教问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_980)》Matilda Laurence 著 1872
+- 《[耶稣教问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_980)》\[英\] 绿慕德 著 1872
 - （无书影）《[讲解（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2207)》\[英\] 慕稼谷 著 1872
 - 《[小羊走岔路](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1132)》\[英\] 岳腓烈夫人 著 1875
-- （无书影）《[日积月累（补足）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1408)》1875\[英\] Favell Lee Mortimer 著 Matilda Laurence 译 
+- （无书影）《[日积月累（补足）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1408)》1875\[英\] Favell Lee Mortimer 著 \[英\] 绿慕德 译 
 - （无书影）《[祷告个应验](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2121)》\[美\] 蒲德立 著 1875
 - （无书影）《[耶稣信徒受苦总论](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2122)》1883
