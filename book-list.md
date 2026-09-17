@@ -6,7 +6,7 @@
 
 - 《[路孝子](https://id.lib.harvard.edu/alma/990081478050203941/catalog)》\[美\] 麦嘉缔 译 1852
 - 《[一杯酒](https://id.lib.harvard.edu/alma/990081478000203941/catalog)》\[美\] 麦嘉缔 译 1852
-- （无书影）《[〈请到耶稣乌碎来〉〈阿爹替儿子算账〉](https://east-asian.bodleian.ox.ac.uk/catalog/volume_5414)》\[爱尔兰\] 禄赐 著 1853
+- （无书影）《[〈请到耶稣乌碎来〉〈阿爹替儿子算账〉](https://east-asian.bodleian.ox.ac.uk/catalog/volume_5414)》\[爱尔兰\] 陆赐 著 1853
 - （无书影）《[瑟比记](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2268)》1861
 - 《[三本小文书（〈亮塔个小人〉〈孤哀子碰着朋友〉〈懊悔说话欠早〉）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2234)》\[英\] 慕师母（慕稼谷夫人）著 1866
 - 《[穷人约瑟](https://east-asian.bodleian.ox.ac.uk/catalog/volume_808)》\[英\] 江郎笔 著 1868
@@ -57,7 +57,7 @@
 ## 科普读物
 
 - 《[宁波土话初学](https://catalog.princeton.edu/catalog/9927764283506421)》\[美\] 兰显理 著 1851
-- （无书影）《[一本书，用罗马字眼，翻宁波土话](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2845)》\[爱尔兰\] 禄赐 著 1851
+- （无书影）《[一本书，用罗马字眼，翻宁波土话](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2845)》\[爱尔兰\] 陆赐 著 1851
 - （无书影）《[地理书 卷一](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2860)》\[美\] 丁韪良 著 1852
 - 《[地理书 卷四](https://salamandre.college-de-france.fr/archives-en-ligne/ead.html?id=FR075CDF_00CDF00SA&c=FR075CDF_00CDF00SA_de-8)》\[美\] 丁韪良 著 1852
 - 《[地球图](https://id.lib.harvard.edu/alma/990081561530203941/catalog)》\[美\] 丁韪良 著 1853
