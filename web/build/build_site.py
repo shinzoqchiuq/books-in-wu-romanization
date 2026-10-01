@@ -41,6 +41,7 @@ BOOKS = [
     {"id": "siao-hyin-li-1868", "title": "小顯理等其個底下人蒲齊"},
     {"id": "four-stories-1869", "title": "四則故事"},
     {"id": "cʽih-yiæ-gyih-kyi-1899", "title": "出埃及記"},
+    {"id": "ming-su-kyi-liah-1895", "title": "民數記略"},
 ]
 
 RUBY_RE = re.compile(r"<rb>(.*?)</rb><rt>(.*?)</rt>", re.S)
@@ -54,6 +55,7 @@ UNDERLINE_BOOKS = {
     "sing-iah-shü-1868",     # 新約書
     "cʽih-yiæ-gyih-kyi-1899",  # 出埃及記
     "di-li-shü-kyün-s-1852",   # 地理書 卷四
+    "ming-su-kyi-liah-1895",   # 民數記略
 }
 
 
