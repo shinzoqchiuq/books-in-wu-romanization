@@ -12,7 +12,7 @@
 
 |      | Markdown            | PDF（对照）                                                  | PDF（注音）                                                  |
 | ---- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 简体 | [链接](./民数记略记.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/ming-su-kyi-liah-1895/民数记略记.pdf)| [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/ming-su-kyi-liah-1895/民数记略记-ruby.pdf)|
+| 简体 | [链接](./民数记略.md) | [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/ming-su-kyi-liah-1895/民数记略.pdf)| [链接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/ming-su-kyi-liah-1895/民数记略-ruby.pdf)|
 | 繁體 | [鏈接](./民數記略.md) | [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/ming-su-kyi-liah-1895/民數記略.pdf)| [鏈接](https://github.com/shinzoqchiuq/books-in-wu-romanization/raw/pdf/ming-su-kyi-liah-1895/民數記略-ruby.pdf) |
 
 ## 字词统计
