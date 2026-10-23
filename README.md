@@ -1,6 +1,6 @@
 # 罗马字宁波话文献整理转写
 
-[![已转写字数](https://img.shields.io/badge/已转写-39.52_万字-blue?style=flat-square)](./字.tsv) [![在线阅读](https://img.shields.io/badge/在线阅读-orange?style=flat-square)](https://shinzoqchiuq.github.io/books-in-wu-romanization)
+[![已转写字数](https://img.shields.io/badge/已转写-43.26_万字-blue?style=flat-square)](./字.tsv) [![在线阅读](https://img.shields.io/badge/在线阅读-orange?style=flat-square)](https://shinzoqchiuq.github.io/books-in-wu-romanization)
 
 十九世纪五十年代至二十世纪三十年代，派驻宁波的基督教传教士使用一套统一的罗马字方案，出版了众多宁波方言（宁波土话/宁波土白）书籍。这些出版物多数只有书影，未被整理为文本格式。本仓库将这些用罗马字拼写的宁波方言出版物整理为文本格式，并将内容转写为方言正字，方便研究、学习。
 
@@ -12,7 +12,7 @@
 
 互联网上可搜集到的全部传教士文献请见 [文献列表](./book-list.md)。
 
-本仓库目前整理并转写了十本书，另有一本还在转写。按照转写工作开始的顺序排序如下：
+本仓库目前整理并转写了十一本书。按照转写工作开始的顺序排序如下：
 
 - 《[地理书 卷四](./di-li-shü-kyün-s-1852)》\[美\] 丁韪良 著 1852（1.32 万字）
 - 《[创世记](./tsʽông-shü-kyi-1899)》1899（4.41 万字）
@@ -24,7 +24,7 @@
 - 《[小显理等其个底下人蒲齐](./siao-hyin-li-1868)》\[英\] Mary Martha Sherwood 著 \[美\] 麦嘉缔夫人 译 1868（1.30 万字）
 - 《[四则故事](./four-stories-1869)》\[美\] 麦嘉缔 译 1869（6373 字）
 - 《[出埃及记](./cʽih-yiæ-gyih-kyi-1899)》1899（3.58 万字）
-- 《[民数记略](./ming-su-kyi-liah-1895)》1895（已转写 1.33 万字）
+- 《[民数记略](./ming-su-kyi-liah-1895)》1895（3.73 万字）
 
 ## 宁波话传教士罗马字简介
 
