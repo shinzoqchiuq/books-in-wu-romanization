@@ -1,6 +1,6 @@
 # 传教士宁波话文献列表
 
-以下为网络上能查找到的传教士宁波土话文献，共 75 本，其中书影可获取的文献 44 本，已知有实体书但无电子版书影的 31 本。各分类内部按出版年份排序，并附链接。部分文献曾多次出版，列表中重复列出。本人搜索能力有限，可能存在遗漏未找到的文献，欢迎补充。
+以下为网络上能查找到的传教士宁波土话文献，共 74 本，其中书影可获取的文献 43 本，已知有实体书但无电子版书影的 31 本。各分类内部按出版年份排序，并附链接。部分文献曾多次出版，列表中重复列出。本人搜索能力有限，可能存在遗漏未找到的文献，欢迎补充。
 
 ## 故事书
 
@@ -81,9 +81,8 @@
 - （无书影）《[审判日子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2266)》1861
 - （无书影）《[旅人入胜](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1510)》\[英\] John Bunyan 著 \[英\] 柯播义 译 1864
 - 《[预备饭餐自查察自](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2204)》\[英\] 慕师母（慕稼谷夫人）著 1866
-- 《[天路指南](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1436)》\[美\] 倪维思 著 1866
 - 《[日积月累（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[英\] 柯播义 译 1868
-- 《[天路指南](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2216)》\[美\] 倪维思 著 1868
+- 《[天路指南](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1805)》\[美\] 倪维思 著 1868
 - 《[日积月累（第二本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[英\] 柯播义 译 1869
 - 《[福音道理领径问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_967)》\[美\] 丁韪良 著 1870
 - 《[耶稣教问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_980)》\[英\] 绿慕德 著 1872
