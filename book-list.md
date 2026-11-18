@@ -7,11 +7,17 @@
 - 《[路孝子](https://id.lib.harvard.edu/alma/990081478050203941/catalog)》\[美\] 麦嘉缔 译 1852
 - 《[一杯酒](https://id.lib.harvard.edu/alma/990081478000203941/catalog)》\[美\] 麦嘉缔 译 1852
 - （无书影）《[〈请到耶稣乌碎来〉〈阿爹替儿子算账〉](https://east-asian.bodleian.ox.ac.uk/catalog/volume_5414)》\[爱尔兰\] 陆赐 著 1853
-- （无书影）《[瑟比记](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2268)》1861
+- （无书影）《[瑟庇记](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2268)》1861
+- （无书影）《[贡旦丢士](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2267)》1861
+- （无书影）《[后头日子长长东](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2264)》1861
+- （无书影）《[谨防欠早](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2265)》1861
+- （无书影）《[欢喜圣书个娘子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2263)》1861
+- （无书影）《[审判日子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2266)》1861
 - 《[三本小文书（〈亮塔个小人〉〈孤哀子碰着朋友〉〈懊悔说话欠早〉）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2234)》\[英\] 慕师母（慕稼谷夫人）著 1866
 - 《[穷人约瑟](https://east-asian.bodleian.ox.ac.uk/catalog/volume_808)》\[英\] 江郎笔 著 1868
 - 《[小显理等其个底下人蒲齐](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1811)》\[英\] Mary Martha Sherwood 著 \[美\] 麦嘉缔夫人 译 1868
 - 《[四则故事（〈路孝子〉〈父子算账〉〈一杯酒〉〈虽拉等喊哪〉）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_831)》\[美\] 麦嘉缔 译 1869
+- 《[小羊走岔路](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1132)》\[英\] 岳腓烈夫人 著 1875
 
 ## 圣经翻译
 
@@ -57,13 +63,11 @@
 ## 科普读物
 
 - 《[宁波土话初学](https://catalog.princeton.edu/catalog/9927764283506421)》\[美\] 兰显理 著 1851
-- （无书影）《[一本书，用罗马字眼，翻宁波土话](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2845)》\[爱尔兰\] 陆赐 著 1851
 - （无书影）《[地理书 卷一](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2860)》\[美\] 丁韪良 著 1852
 - 《[地理书 卷四](https://salamandre.college-de-france.fr/archives-en-ligne/ead.html?id=FR075CDF_00CDF00SA&c=FR075CDF_00CDF00SA_de-8)》\[美\] 丁韪良 著 1852
 - 《[地球图](https://id.lib.harvard.edu/alma/990081561530203941/catalog)》\[美\] 丁韪良 著 1853
 - （无书影）《[算法开通](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1515)》\[美\] 丁韪良 著 1854
 - （无书影）《[地理书 卷一](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2127)》\[美\] 丁韪良 著 1859
-- （无书影）《[贡旦丢士](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2267)》1861
 - （无书影）《[宁波土话初学](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1016)》\[美\] 兰显理 著 1871
 - 《[初学地理问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1579)》雷应百 著 1873
 - （无书影）《[地理问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1043)》\[英\] 岳腓烈 著 1875
@@ -71,14 +75,11 @@
 
 ## 宗教劝导
 
+- （无书影）《[一本书，用罗马字眼，翻宁波土话](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2845)》\[爱尔兰\] 陆赐 著 1851
 - 《[训幼韵文](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1644)》\[美\] 孟丁元 著 1858
 - 《[幼童初晓](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1550)》\[英\] Favell Lee Mortimer 著 \[美\] 倪戈氏（倪维思夫人）译 1859
 - （无书影）《[训蒙圣经功课](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2108)》\[美\] 那尔敦夫人 著 1860
 - （无书影）《[众祷告文等洗礼、晚餐，连公会所定个一切祝文](https://east-asian.bodleian.ox.ac.uk/catalog/volume_524)》\[英\] 慕稼谷 著 1860
-- （无书影）《[欢喜圣书个娘子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2263)》1861
-- （无书影）《[后头日子长长东](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2264)》1861
-- （无书影）《[谨防欠早](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2265)》1861
-- （无书影）《[审判日子](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2266)》1861
 - （无书影）《[旅人入胜](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1510)》\[英\] John Bunyan 著 \[英\] 柯播义 译 1864
 - 《[预备饭餐自查察自](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2204)》\[英\] 慕师母（慕稼谷夫人）著 1866
 - 《[日积月累（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1806)》\[英\] Favell Lee Mortimer 著 \[英\] 柯播义 译 1868
@@ -87,7 +88,6 @@
 - 《[福音道理领径问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_967)》\[美\] 丁韪良 著 1870
 - 《[耶稣教问答](https://east-asian.bodleian.ox.ac.uk/catalog/volume_980)》\[英\] 绿慕德 著 1872
 - （无书影）《[讲解（第一本）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2207)》\[英\] 慕稼谷 著 1872
-- 《[小羊走岔路](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1132)》\[英\] 岳腓烈夫人 著 1875
 - （无书影）《[日积月累（补足）](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1408)》1875\[英\] Favell Lee Mortimer 著 \[英\] 绿慕德 译 
 - （无书影）《[祷告个应验](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2121)》\[美\] 蒲德立 著 1875
 - （无书影）《[耶稣信徒受苦总论](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2122)》1883
